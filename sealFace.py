@@ -18,7 +18,7 @@ def main(args):
 		os.mkdir(chipfolder)
 	except:
 		pass
-	os.system("seal.exe seal.dat " + chipfolder + " " + arguments)
+	os.system("./seal.exe seal.dat " + chipfolder + " " + arguments)
 
 if __name__ == "__main__":
 	main(sys.argv)
