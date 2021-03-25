@@ -6,14 +6,15 @@ project(SealNet)
 # Tell cmake we will need dlib.  This command will pull in dlib and compile it
 # into your project.  Note that you don't need to compile or install dlib.  All
 # cmake needs is the dlib source code folder and it will take care of everything.
-#add_subdirectory(../dlib dlib_build)
+add_subdirectory(../dlib dlib_build)
 
 
 # cmake --build . --config Release
 
-# if (NOT DEFINED DLIB_PATH)
-   # set(DLIB_PATH "C:/Program Files/dlib-19.21")
-# endif()
+if (NOT DEFINED DLIB_PATH)
+   #set(DLIB_PATH "C:/Program Files/dlib-19.21")
+   set(DLIB_PATH "/users/jdaus/dlib-19.6")
+endif()
 
 include(${DLIB_PATH}/dlib/cmake)
 
