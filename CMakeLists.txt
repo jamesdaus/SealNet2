@@ -11,9 +11,9 @@ project(SealNet)
 
 # cmake --build . --config Release
 
-if (NOT DEFINED DLIB_PATH)
-   set(DLIB_PATH "C:/Program Files/dlib-19.21")
-endif()
+# if (NOT DEFINED DLIB_PATH)
+   # set(DLIB_PATH "C:/Program Files/dlib-19.21")
+# endif()
 
 include(${DLIB_PATH}/dlib/cmake)
 
