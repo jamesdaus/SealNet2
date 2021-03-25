@@ -1,0 +1,6 @@
+/users/jdaus/SealNet2/build/CMakeFiles/rebuild_cache.dir
+/users/jdaus/SealNet2/build/CMakeFiles/edit_cache.dir
+/users/jdaus/SealNet2/build/CMakeFiles/dnn_mmod_dog_hipsterizer.dir
+/users/jdaus/SealNet2/build/dlib_build/CMakeFiles/edit_cache.dir
+/users/jdaus/SealNet2/build/dlib_build/CMakeFiles/rebuild_cache.dir
+/users/jdaus/SealNet2/build/dlib_build/CMakeFiles/dlib.dir
