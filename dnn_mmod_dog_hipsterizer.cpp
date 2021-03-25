@@ -113,8 +113,8 @@ int main(int argc, char** argv) try
         //Initial downscale?
 
         cout << "net(img) no pyramid... " << endl;
-        //pyramid_up(img);
-        //pyramid_up(img); Command line arg?
+        pyramid_up(img);
+        pyramid_up(img); //Command line arg?
         auto dets = net(img);
         // while (dets.size() == 0) { //Expand until max_size reached, or face found
 	    //     if (!upscale_image(img)) {
