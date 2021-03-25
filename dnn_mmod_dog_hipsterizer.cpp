@@ -112,9 +112,11 @@ int main(int argc, char** argv) try
 
         //Initial downscale?
 
-        cout << "net(img) no pyramid... " << endl;
+        cout << "pyramid 1... " << endl;
         pyramid_up(img);
+	cout << "pyramid 2... " << endl;
         pyramid_up(img); //Command line arg?
+	cout << "dets " << endl;    
         auto dets = net(img);
         // while (dets.size() == 0) { //Expand until max_size reached, or face found
 	    //     if (!upscale_image(img)) {
@@ -128,7 +130,7 @@ int main(int argc, char** argv) try
         //win_wireframe.clear_overlay();
         //win_wireframe.set_image(img);
 
-        cout << "for d in dets... " << endl;
+        cout << "beginning loop " << endl;
         for (auto&& d : dets)
         {
             cout << "num_chips " << num_chips << endl;
