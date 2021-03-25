@@ -112,8 +112,8 @@ int main(int argc, char** argv) try
 
         //Initial downscale?
 
-        cout << "pyramid 1... " << endl;
-        pyramid_up(img);
+        //cout << "pyramid 1... " << endl;
+        //pyramid_up(img);
 	//cout << "pyramid 2... " << endl;
         //pyramid_up(img); //Command line arg?
 	cout << "dets " << endl;    
