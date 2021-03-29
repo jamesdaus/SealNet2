@@ -116,8 +116,8 @@ int main(int argc, char** argv) try
         //pyramid_up(img);
 	//cout << "pyramid 2... " << endl;
         //pyramid_up(img); //Command line arg?
-	cout << "dets " << endl;    
-        auto dets = net(img);
+	// cout << "dets " << endl;    
+        // auto dets = net(img);
         // while (dets.size() == 0) { //Expand until max_size reached, or face found
 	    //     if (!upscale_image(img)) {
         //         break;
@@ -131,7 +131,7 @@ int main(int argc, char** argv) try
         //win_wireframe.set_image(img);
 
         cout << "beginning loop " << endl;
-        for (auto&& d : dets)
+        for (auto&& d : net(img))
         {
             cout << "num_chips " << num_chips << endl;
             // extract the face chip
