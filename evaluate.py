@@ -73,7 +73,7 @@ def identify(logdir, probe, gallery):
 def main():
 
     network = Network()
-    model_name = "\log\seal_net_fold_1\20200501-125537\events.out.tfevents.1588355740.Daniel" #sys.argv[1]
+    model_name = "\log\seal_net_fold_1\20200501-125537" #events.out.tfevents.1588355740.Daniel" #sys.argv[1]
     config = "config.py"
     network.load_model(model_name)
 
