@@ -19,6 +19,8 @@ dlib/image_processing.h
 -
 dlib/gui_widgets.h
 -
+new
+-
 
 /users/jdaus/dlib-19.6/dlib/algs.h
 dlib_basic_cpp_build_tutorial.txt

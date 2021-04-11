@@ -42,7 +42,7 @@
 #include <dlib/data_io.h>
 #include <dlib/image_processing.h>
 #include <dlib/gui_widgets.h>
-
+#include <new>
 
 using namespace std;
 using namespace dlib;
@@ -126,12 +126,27 @@ int main(int argc, char** argv) try
 	    //     dets = net(img);
         // }
 
+        std::vector<dlib::mmod_rect> dets;
+        try {
+            cout << "try pyramid up" << endl;
+            pyramid_up(img);
+            pyramid_up(img);
+            pyramid_up(img);
+            dets = net(img);
+        }
+        catch(std::bad_alloc& ba) { //Catches bad allocation (too big)
+            cout << "catch pyramid up" << endl;
+            try {
+                cout << "try pyramid down" << endl;
+                load_image(img, argv[i]); //Reload image, smaller
+                dets = net(img);
+            }
+            catch(std::bad_alloc& ba) {
+                cout << "catch pyramid down" << endl;
+            }
+        }
 
-        //win_wireframe.clear_overlay();
-        //win_wireframe.set_image(img);
-
-        cout << "beginning loop " << endl;
-        for (auto&& d : net(img))
+        for (auto&& d : dets)
         {
             cout << "num_chips " << num_chips << endl;
             // extract the face chip
