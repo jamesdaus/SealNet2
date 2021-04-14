@@ -36,13 +36,13 @@ seal.dat - Trained model for face detection used by seal.exe
 
 ## Useful resources:
 
-# Link to SealNet 1.0:
+### Link to SealNet 1.0:
 https://github.com/aylab/SealFaceRecognition
 
-# CNNs (Neural network architecture):
+### CNNs (Neural network architecture):
 
 Introduction to the concepts: https://towardsdatascience.com/simple-introduction-to-convolutional-neural-networks-cdf8d3077bac
 
-# Dlib (Face chipping):
+### Dlib (Face chipping):
 
 Basis of detection code: https://github.com/davisking/dlib/blob/master/examples/dnn_mmod_dog_hipsterizer.cpp
