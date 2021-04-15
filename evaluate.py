@@ -55,7 +55,7 @@ def identify(probe, gallery):
                 predictions = np.array(uq)[sort_idx]
                 #                   This is where outputs are stored, check certainty?
 
-                f.write("\n".format(probe.labels[i], predictions[0]))
+                f.write("{},{}\n".format(probe.labels[i], predictions[0]))
 
                 #rank = list(predictions).index(probe.labels[i]) + 1
                 #score = score_matrix[i][sort_idx][rank-1]
