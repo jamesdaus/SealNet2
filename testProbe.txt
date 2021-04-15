@@ -1,5 +1,5 @@
-../SealNet2/Whaleboat_1_1Chips/chip0.jpg
-../SealNet2/Whaleboat_1_1Chips/chip1.jpg
-../SealNet2/Whaleboat_1_1Chips/chip2.jpg
-../SealNet2/Whaleboat_1_1Chips/chip3.jpg
-../SealNet2/Whaleboat_1_1Chips/chip4.jpg
+/data/james_workspace/SealNet2/Whaleboat_1_1Chips/chip0.jpg
+/data/james_workspace/SealNet2/Whaleboat_1_1Chips/chip1.jpg
+/data/james_workspace/SealNet2/Whaleboat_1_1Chips/chip2.jpg
+/data/james_workspace/SealNet2/Whaleboat_1_1Chips/chip3.jpg
+/data/james_workspace/SealNet2/Whaleboat_1_1Chips/chip4.jpg
