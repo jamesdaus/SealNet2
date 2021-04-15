@@ -57,6 +57,11 @@ def identify(probe, gallery):
 
                 f.write("{},{}\n".format(probe.labels[i], predictions[0]))
 
+                # Make this easy to check, filename, prediction #
+                # One result file for each location folder, always trained on ALL the data
+
+                # Automating turning the filenames from the folders into probe set
+                
                 #rank = list(predictions).index(probe.labels[i]) + 1
                 #score = score_matrix[i][sort_idx][rank-1]
                 #prediction = predictions[0]
