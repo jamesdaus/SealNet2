@@ -33,7 +33,7 @@ class ImageSet:
     def extract_features(self, model, batch_size):
         self.features = model.extract_feature(self.images, 128)
 
-def identify(logdir, probe, gallery):
+def identify(probe, gallery):
     
     uq = list(dict.fromkeys(gallery.labels))
     galFeaturesList = []
