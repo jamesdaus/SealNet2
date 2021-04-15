@@ -1,5 +1,5 @@
 /data/james_workspace/photos/49/049_10.jpg 49
-..\photos\49\049_2.jpg 49
+\data\james_workspace\photos\49\049_2.jpg 49
 ..\photos\49\049_3.jpg 49
 ..\photos\49\049_4.jpg 49
 ..\photos\49\049_5.jpg 49
