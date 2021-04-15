@@ -26,6 +26,8 @@ class ImageSet:
         self.features = None
     def parse(self):
         lines = [line.strip().split(' ') for line in self.image_paths]
+        print(line[0])
+        print(line[1])
         return utils.preprocess([line[0] for line in lines], self.config, False), [line[1] for line in lines]
     def extract_features(self, model, batch_size):
         self.features = model.extract_feature(self.images, 128)
