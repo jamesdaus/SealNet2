@@ -6,8 +6,6 @@
 /data/james_workspace/SealNet2/Whaleboat_1_1Chips/chip5.jpeg 1
 /data/james_workspace/SealNet2/Whaleboat_1_1Chips/chip6.jpeg 1
 /data/james_workspace/SealNet2/Whaleboat_1_1Chips/chip7.jpeg 1
-
-
 /data/james_workspace/SealNet2/Brandt_Ledges_1_10Chips/chip0.jpeg 1
 /data/james_workspace/SealNet2/Brandt_Ledges_1_10Chips/chip1.jpeg 1
 /data/james_workspace/SealNet2/Brandt_Ledges_1_10Chips/chip2.jpeg 1
