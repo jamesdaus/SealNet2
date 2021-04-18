@@ -55,7 +55,7 @@ def identify(probe, gallery):
                 predictions = np.array(uq)[sort_idx]
                 #                   This is where outputs are stored, check certainty?
 
-                f.write("{},{}\n".format(probe.images[i], predictions[0]))
+                f.write("{},{}\n".format(probe.image_paths[i], predictions[0]))
 
                 # Make this easy to check, filename, prediction #
                 # One result file for each location folder, always trained on ALL the data
