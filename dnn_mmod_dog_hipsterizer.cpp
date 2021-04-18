@@ -130,19 +130,17 @@ int main(int argc, char** argv) try
         try {
             cout << "try pyramid up" << endl;
             pyramid_up(img);
-            pyramid_up(img);
-            pyramid_up(img);
             dets = net(img);
         }
-        catch(std::bad_alloc& ba) { //Catches bad allocation (too big)
-            cout << "catch pyramid up" << endl;
+        catch(std::bad_alloc& ba) { //Catches bad alllocation (too big)
+            cout << "bad alloc pyramid up" << endl;
             try {
                 cout << "try pyramid down" << endl;
                 load_image(img, argv[i]); //Reload image, smaller
                 dets = net(img);
             }
             catch(std::bad_alloc& ba) {
-                cout << "catch pyramid down" << endl;
+                cout << "bad alloc pyramid down, skipping" << endl;
             }
         }
 
