@@ -1,0 +1,10 @@
+/data/james_workspace/photos/49/049_10.jpg 49
+/data/james_workspace/photos/49/049_2.jpg 49
+/data/james_workspace/photos/40/040_6.jpg 40
+/data/james_workspace/photos/82/082_3.jpg 82
+/data/james_workspace/photos/77/077_4.jpg 77
+/data/james_workspace/photos/55/055_10.jpg 55
+/data/james_workspace/photos/60/060_3.jpg 60
+/data/james_workspace/photos/59/059_8.jpg 59
+/data/james_workspace/photos/79/079_3.jpg 79
+/data/james_workspace/photos/4/004_2.jpg 4

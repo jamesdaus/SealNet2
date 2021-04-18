@@ -26,11 +26,16 @@ class ImageSet:
         self.features = None
     def parse(self):
         lines = [line.strip().split(' ') for line in self.image_paths]
+        image_paths = []
+        for line in lines:
+            print(line[0])
+            print(line[1])
+            image_paths.append(line[0])
         return utils.preprocess([line[0] for line in lines], self.config, False), [line[1] for line in lines]
     def extract_features(self, model, batch_size):
         self.features = model.extract_feature(self.images, 128)
 
-def identify(logdir, probe, gallery):
+def identify(probe, gallery):
     
     uq = list(dict.fromkeys(gallery.labels))
     galFeaturesList = []
@@ -52,8 +57,13 @@ def identify(logdir, probe, gallery):
                 predictions = np.array(uq)[sort_idx]
                 #                   This is where outputs are stored, check certainty?
 
-                f.write("\n".format(probe.labels[i], predictions[0]))
+                f.write("{},{}\n".format(probe.image_paths[i], predictions[0]))
 
+                # Make this easy to check, filename, prediction #
+                # One result file for each location folder, always trained on ALL the data
+
+                # Automating turning the filenames from the folders into probe set
+                
                 #rank = list(predictions).index(probe.labels[i]) + 1
                 #score = score_matrix[i][sort_idx][rank-1]
                 #prediction = predictions[0]
@@ -73,8 +83,11 @@ def identify(logdir, probe, gallery):
 def main():
 
     network = Network()
-    model_name = "\log\seal_net_fold_1\20200501-125537" #events.out.tfevents.1588355740.Daniel" #sys.argv[1]
-    config = "config.py"
+    model_name = '/data/james_workspace/SealFaceRecognition/log/seal_net_fold_1/20210405-132756' #sys.argv[1]
+    
+    config_file = 'config.py'
+    config = utils.import_file(config_file, 'config')
+    
     network.load_model(model_name)
 
     probes = []
@@ -86,7 +99,7 @@ def main():
     probe_set = ImageSet(probes, config)
     #probe_set.extract_features(network, len(probes))
     #
-    with open("testGal.txt", 'r') as f:
+    with open("referencePhotos.txt", 'r') as f:
         for line in f:
             gal.append(line.strip())
     gal_set = ImageSet(gal, config)
