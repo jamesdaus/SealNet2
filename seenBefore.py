@@ -98,7 +98,7 @@ def main():
     probe_set = ImageSet(probes, config)
     #probe_set.extract_features(network, len(probes))
     #
-    with open("testGal.txt", 'r') as f:
+    with open("referencePhotos.txt", 'r') as f:
         for line in f:
             gal.append(line.strip())
     gal_set = ImageSet(gal, config)
