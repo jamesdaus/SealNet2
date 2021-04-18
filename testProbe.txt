@@ -24,5 +24,3 @@
 /data/james_workspace/SealNet2/Brandt_Ledges_1_10Chips/chip15.jpeg 1
 /data/james_workspace/SealNet2/Brandt_Ledges_1_10Chips/chip16.jpeg 1
 /data/james_workspace/SealNet2/Brandt_Ledges_1_10Chips/chip17.jpeg 1
-
-
