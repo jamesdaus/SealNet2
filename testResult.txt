@@ -1,5 +1,26 @@
-1,4
-1,40
-1,77
-1,40
-1,77
+/data/james_workspace/SealNet2/Whaleboat_1_1Chips/chip0.jpeg 1,4
+/data/james_workspace/SealNet2/Whaleboat_1_1Chips/chip1.jpeg 1,4
+/data/james_workspace/SealNet2/Whaleboat_1_1Chips/chip2.jpeg 1,11
+/data/james_workspace/SealNet2/Whaleboat_1_1Chips/chip3.jpeg 1,11
+/data/james_workspace/SealNet2/Whaleboat_1_1Chips/chip4.jpeg 1,4
+/data/james_workspace/SealNet2/Whaleboat_1_1Chips/chip5.jpeg 1,39
+/data/james_workspace/SealNet2/Whaleboat_1_1Chips/chip6.jpeg 1,45
+/data/james_workspace/SealNet2/Whaleboat_1_1Chips/chip7.jpeg 1,79
+/data/james_workspace/SealNet2/Brandt_Ledges_1_10Chips/chip0.jpeg 1,41
+/data/james_workspace/SealNet2/Brandt_Ledges_1_10Chips/chip1.jpeg 1,51
+/data/james_workspace/SealNet2/Brandt_Ledges_1_10Chips/chip2.jpeg 1,8
+/data/james_workspace/SealNet2/Brandt_Ledges_1_10Chips/chip3.jpeg 1,51
+/data/james_workspace/SealNet2/Brandt_Ledges_1_10Chips/chip4.jpeg 1,47
+/data/james_workspace/SealNet2/Brandt_Ledges_1_10Chips/chip5.jpeg 1,26
+/data/james_workspace/SealNet2/Brandt_Ledges_1_10Chips/chip6.jpeg 1,51
+/data/james_workspace/SealNet2/Brandt_Ledges_1_10Chips/chip7.jpeg 1,19
+/data/james_workspace/SealNet2/Brandt_Ledges_1_10Chips/chip8.jpeg 1,26
+/data/james_workspace/SealNet2/Brandt_Ledges_1_10Chips/chip9.jpeg 1,47
+/data/james_workspace/SealNet2/Brandt_Ledges_1_10Chips/chip10.jpeg 1,30
+/data/james_workspace/SealNet2/Brandt_Ledges_1_10Chips/chip11.jpeg 1,8
+/data/james_workspace/SealNet2/Brandt_Ledges_1_10Chips/chip12.jpeg 1,32
+/data/james_workspace/SealNet2/Brandt_Ledges_1_10Chips/chip13.jpeg 1,66
+/data/james_workspace/SealNet2/Brandt_Ledges_1_10Chips/chip14.jpeg 1,65
+/data/james_workspace/SealNet2/Brandt_Ledges_1_10Chips/chip15.jpeg 1,4
+/data/james_workspace/SealNet2/Brandt_Ledges_1_10Chips/chip16.jpeg 1,14
+/data/james_workspace/SealNet2/Brandt_Ledges_1_10Chips/chip17.jpeg 1,35
