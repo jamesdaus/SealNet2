@@ -81,7 +81,7 @@ def identify(probe, gallery):
 def main():
 
     network = Network()
-    model_name = '/data/james_workspace/SealFaceRecognition/log/seal_net_fold_1/20210405-132756' #sys.argv[1]
+    model_name = '/data/james_workspace/SealFaceRecognition/log/seal_net_fold_1/20210422-030324' #sys.argv[1]
     
     config_file = 'config.py'
     config = utils.import_file(config_file, 'config')
