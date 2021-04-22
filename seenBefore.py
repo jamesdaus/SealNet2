@@ -90,7 +90,7 @@ def main():
 
     probes = []
     gal = []
-    with open("testProbe.txt" ,'r') as f:
+    with open("probePhotos.txt" ,'r') as f:
         for line in f:
             probes.append(line.strip())
 
