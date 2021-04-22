@@ -32,19 +32,36 @@ def get_individuals(directory):
 
 def main():
     args = sys.argv
-    if len(args) != 2:
-        print("Usage: python format_data.py DIRECTORY")
+    if len(args) != 3:
+        print('Usage: python format_data.py GALLERY/PROBE DIRECTORY')
+        print('Ex: python format_data.py GALLERY ../photos')
         return
-    directory = args[1]
-    individuals = get_individuals(directory)
-    labels = list(individuals.keys())
-    with open('./referencePhotos.txt', 'w') as gallery:
-        for key in labels:
-            value = individuals[key]
-            #if i >= len(value):
-                #continue
-            for j in range(len(value)):
-                gallery.write(value[j] + ' ' + key + '\n')
+    directory = args[2]
+    
+    if (args[1].lower() == 'gallery'):
+        individuals = get_individuals(directory)
+        labels = list(individuals.keys())
+        with open('./referencePhotos.txt', 'w') as gallery:
+            for key in labels:
+                value = individuals[key]
+                #if i >= len(value):
+                    #continue
+                for j in range(len(value)):
+                    gallery.write(value[j] + ' ' + key + '\n')
+
+    elif (args[1].lower() == 'probe'):
+        with open('./probePhotos.txt', 'a') as probe: #Append to end of file
+            path = Path(directory).resolve()
+            extensions = ('png', 'jpg', 'jpeg')
+            assert(os.path.exists(path))
+
+            for file_name in os.listdir(path):
+                if file_name.lower().endswith(extensions):
+                    file_path = os.path.join(path, file_name)
+                    probe.write((str(file_path)) + ' 1\n')
+    else:
+        print("First argument must be 'gallery' or 'probe'")
+        return
 
 
 
