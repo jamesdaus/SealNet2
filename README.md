@@ -60,4 +60,5 @@ Introduction to the concepts: https://towardsdatascience.com/simple-introduction
 ### Dlib (Face chipping):
 
 Documentation: http://dlib.net/
+
 Basis of detection code: https://github.com/davisking/dlib/blob/master/examples/dnn_mmod_dog_hipsterizer.cpp
