@@ -6,6 +6,8 @@
 
 Output will be written into folder /FOLDER_OF_PHOTOSChips
 
+This will require a working seal.exe executable. 
+
 
 ## Compiling changes:
  
