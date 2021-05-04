@@ -6,11 +6,13 @@
 
 Output will be written into folder /FOLDER_OF_PHOTOSChips
 
-This will require a working seal.exe executable. 
+This will require a seal.exe executable. The included seal.exe is linux compatible. For a windows executable, follow the instructions below.
 
 
 ## Compiling changes:
- 
+
+To edit and recreate the seal.exe executable, make changes to 
+
 mkdir build
 
 cd build
