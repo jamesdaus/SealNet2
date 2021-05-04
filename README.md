@@ -11,7 +11,10 @@ This will require a seal.exe executable. The included seal.exe is linux compatib
 
 ## Compiling changes:
 
-To edit and recreate the seal.exe executable, make changes to 
+cmake is required to make any changes to or compile the c++ code, and can be found here: https://cmake.org/download/
+
+To edit and recreate the seal.exe executable, make changes to dnn_mmod_dog_hipsterizer.cpp, then run the following commands:
+(If you just need a windows executable, simply follow the instructions without making changes)
 
 mkdir build
 
@@ -21,7 +24,14 @@ cmake ..
 
 cmake --build . --config Release
 
-This will create an updated chipping executable, which should be renamed seal.exe and placed into the parent folder with sealFace.py
+This will create an updated chipping executable, which you should rename seal.exe and place into the parent folder with sealFace.py
+
+Sample on linux:
+
+cd Release
+
+cp dnn_mmod_dog_hipsterizer.exe ../../seal.exe 
+(This will create a copy of the new executable with the correct name in the parent folder)
 
 
 ## Important files:
