@@ -47,6 +47,22 @@ seal.exe - Compiled executable called by sealFace
 seal.dat - Trained model for face detection used by seal.exe
 
 
+# SealNet Classifier Additions
+
+## Usage:
+
+"python sealFace.py /FOLDER_OF_PHOTOS"
+
+Output will be written into folder /FOLDER_OF_PHOTOSChips
+
+This will require a seal.exe executable. The included seal.exe is linux compatible. For a windows executable, follow the instructions below.
+
+
+## Important files:
+
+
+
+
 
 ## Useful resources:
 
