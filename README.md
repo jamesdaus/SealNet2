@@ -51,7 +51,7 @@ seal.dat - Trained model for face detection used by seal.exe
 
 ## Usage:
 
-"python sealFace.py /FOLDER_OF_PHOTOS"
+"python format_data.py /FOLDER_OF_PHOTOS"
 
 Output will be written into folder /FOLDER_OF_PHOTOSChips
 
