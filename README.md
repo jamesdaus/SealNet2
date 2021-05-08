@@ -2,7 +2,7 @@
 
 ## Usage:
 
-"python sealFace.py /FOLDER_OF_PHOTOS"
+"python sealFindr.py /FOLDER_OF_PHOTOS"
 
 Output will be written into folder /FOLDER_OF_PHOTOSChips
 
@@ -24,7 +24,7 @@ cmake ..
 
 cmake --build . --config Release
 
-This will create an updated chipping executable, which you should rename seal.exe and place into the parent folder with sealFace.py
+This will create an updated chipping executable, which you should rename seal.exe and place into the parent folder with sealFindr.py
 
 Sample on linux:
 
@@ -36,13 +36,13 @@ cp dnn_mmod_dog_hipsterizer.exe ../../seal.exe
 
 ## Important files:
 
-sealFace.py - Python code which takes input folder and calls chipping executable on each photo
+sealFindr.py - Python code which takes input folder and calls chipping executable on each photo
 
 dnn_mmod_dog_hipsterizer.cpp - Adapted Dlib code for seal face detection and chipping
 
 CMakeLists.txt - File used by CMake to compile above code
 
-seal.exe - Compiled executable called by sealFace
+seal.exe - Compiled executable called by sealFindr
 
 seal.dat - Trained model for face detection used by seal.exe
 
