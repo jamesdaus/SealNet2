@@ -51,18 +51,20 @@ seal.dat - Trained model for face detection used by seal.exe
 
 ## Usage:
 
-"python format_data.py /FOLDER_OF_PHOTOS"
+"python format_data.py GALLERY/PROBE DIRECTORY"
+Ex: python format_data.py GALLERY ../photos
+Ex: python format_data.py PROBE ../chips
 
-Output will be written into folder /FOLDER_OF_PHOTOSChips
+Output will be written into 
 
-This will require a seal.exe executable. The included seal.exe is linux compatible. For a windows executable, follow the instructions below.
+This will require a trained SealNet model, which is included.
 
 
 ## Important files:
 
+format_data.py
 
-
-
+seenBefore.py
 
 ## Useful resources:
 
