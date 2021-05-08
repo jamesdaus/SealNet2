@@ -49,22 +49,31 @@ seal.dat - Trained model for face detection used by seal.exe
 
 # SealNet Classifier Additions
 
-## Usage:
+## format_data Usage:
 
 "python format_data.py GALLERY/PROBE DIRECTORY"
+
 Ex: python format_data.py GALLERY ../photos
+
 Ex: python format_data.py PROBE ../chips
 
-Output will be written into 
+Output will be written into either ./probePhotos.txt or ./referencePhotos.txt respectively
 
-This will require a trained SealNet model, which is included.
+## seenBefore Usage:
 
+"python seenBefore.py"
+
+This will require ./probePhotos.txt, ./referencePhotos.txt, and a trained SealNet model, which can be directed to in "model_name" in main().
+
+Output will be written into ./testResult.txt
 
 ## Important files:
 
-format_data.py
+format_data.py - Python function to create probe and reference .txt files for seenBefore usage. Creating a probe list (the new chips to be classified) takes a single directory of chips. Creating a gallery (the classified reference groups) takes a folder of folders, each labelled with a number corresponding to a seal, with chips of that seal contained within. 
 
-seenBefore.py
+seenBefore.py - This script uses the a probePhotos.txt and referencePhotos.txt within the same folder to classify each of the probes as the closest reference, according to a trained SealNet model. The output is formated as: name_of_chip.jpeg 1,NUMBER OF CLASSIFIED SEAL
+
+For example: BrandtLedges/Chip10.jpeg 1,64  Which means that Chip10.jpeg most closely matches the seal in labelled folder 64
 
 ## Useful resources:
 
