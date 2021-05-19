@@ -22,7 +22,7 @@ model_name in main() of seenBefore.py must point to a trained CNN.
 
 
 
-To edit and recreate the seal.exe executable, make changes to dnn_mmod_dog_hipsterizer.cpp, then run the following commands:
+#### To edit and recreate the seal.exe executable, make changes to dnn_mmod_dog_hipsterizer.cpp, then run the following commands:
 (If you just need a windows executable, simply follow the instructions without making changes)
 
 mkdir build
