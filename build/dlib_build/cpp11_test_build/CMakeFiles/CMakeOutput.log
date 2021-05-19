@@ -1,0 +1,26 @@
+Performing C++ SOURCE FILE Test COMPILER_SUPPORTS_CXX11 succeeded with the following output:
+Change Dir: /Users/Hieudo/Documents/Summer Research/SealNet2/build/dlib_build/cpp11_test_build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_011e5/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_011e5.dir/build.make CMakeFiles/cmTC_011e5.dir/build
+Building CXX object CMakeFiles/cmTC_011e5.dir/src.cxx.o
+/Library/Developer/CommandLineTools/usr/bin/c++ -DCOMPILER_SUPPORTS_CXX11  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=c++11 -MD -MT CMakeFiles/cmTC_011e5.dir/src.cxx.o -MF CMakeFiles/cmTC_011e5.dir/src.cxx.o.d -o CMakeFiles/cmTC_011e5.dir/src.cxx.o -c "/Users/Hieudo/Documents/Summer Research/SealNet2/build/dlib_build/cpp11_test_build/CMakeFiles/CMakeTmp/src.cxx"
+Linking CXX executable cmTC_011e5
+/usr/local/Cellar/cmake/3.20.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_011e5.dir/link.txt --verbose=1
+/Library/Developer/CommandLineTools/usr/bin/c++  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/cmTC_011e5.dir/src.cxx.o -o cmTC_011e5 
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_SUPPORTS_CXX0X succeeded with the following output:
+Change Dir: /Users/Hieudo/Documents/Summer Research/SealNet2/build/dlib_build/cpp11_test_build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_fe87c/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_fe87c.dir/build.make CMakeFiles/cmTC_fe87c.dir/build
+Building CXX object CMakeFiles/cmTC_fe87c.dir/src.cxx.o
+/Library/Developer/CommandLineTools/usr/bin/c++ -DCOMPILER_SUPPORTS_CXX0X  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=c++0x -MD -MT CMakeFiles/cmTC_fe87c.dir/src.cxx.o -MF CMakeFiles/cmTC_fe87c.dir/src.cxx.o.d -o CMakeFiles/cmTC_fe87c.dir/src.cxx.o -c "/Users/Hieudo/Documents/Summer Research/SealNet2/build/dlib_build/cpp11_test_build/CMakeFiles/CMakeTmp/src.cxx"
+Linking CXX executable cmTC_fe87c
+/usr/local/Cellar/cmake/3.20.2/bin/cmake -E cmake_link_script CMakeFiles/cmTC_fe87c.dir/link.txt --verbose=1
+/Library/Developer/CommandLineTools/usr/bin/c++  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/cmTC_fe87c.dir/src.cxx.o -o cmTC_fe87c 
+
+
+Source file was:
+int main() { return 0; }

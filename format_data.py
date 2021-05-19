@@ -12,6 +12,13 @@ from pathlib import Path
 
 
 def get_individuals(directory):
+    """
+    Usually used on photo folder. 
+    Return a dictionary whose [key, pair] = [name_of_subfolder, list_of_path_to_each_photos_within_the_subfolder]
+
+    :type directory: String
+    """
+
     prefix = Path(directory).resolve()
     extensions = ('png', 'jpg', 'jpeg')
     individuals = {}
@@ -38,6 +45,7 @@ def main():
         return
     directory = args[2]
     
+    #gallery: facechips that will be used as reference
     if (args[1].lower() == 'gallery'):
         individuals = get_individuals(directory)
         labels = list(individuals.keys())
@@ -49,6 +57,7 @@ def main():
                 for j in range(len(value)):
                     gallery.write(value[j] + ' ' + key + '\n')
 
+    #probe: facechips that will be used to compare with the reference photos
     elif (args[1].lower() == 'probe'):
         with open('./probePhotos.txt', 'a') as probe: #Append to end of file
             path = Path(directory).resolve()

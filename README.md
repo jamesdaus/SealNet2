@@ -70,6 +70,8 @@ Output will be written into either ./probePhotos.txt or ./referencePhotos.txt re
 
 "python seenBefore.py"
 
+Must be used within the SealFaceRecognition repo instead as we utilize facepy and network from that repo.
+
 This will require ./probePhotos.txt, ./referencePhotos.txt, and a trained SealNet model, which can be directed to in "model_name" in main().
 
 Output will be written into ./testResult.txt
