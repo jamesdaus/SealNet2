@@ -1,5 +1,6 @@
 # SealNet Seal Chipping
 
+
 ## Usage:
 
 "python sealFindr.py /FOLDER_OF_PHOTOS"
@@ -9,9 +10,17 @@ Output will be written into folder /FOLDER_OF_PHOTOSChips
 This will require a seal.exe executable. The included seal.exe is linux compatible. For a windows executable, follow the instructions below.
 
 
-## Compiling changes:
+## Compiling (likely required for first time use):
 
 cmake is required to make any changes to or compile the c++ code, and can be found here: https://cmake.org/download/
+
+These may require changes if you are not using the AWS servers:
+
+The DLIB_PATH in CMakeLists.txt must point to an installation of DLIB. 
+
+model_name in main() of seenBefore.py must point to a trained CNN.
+
+
 
 To edit and recreate the seal.exe executable, make changes to dnn_mmod_dog_hipsterizer.cpp, then run the following commands:
 (If you just need a windows executable, simply follow the instructions without making changes)
