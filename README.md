@@ -24,13 +24,11 @@ cmake ..
 
 cmake --build . --config Release
 
-This will create an updated chipping executable, which you should rename seal.exe and place into the parent folder with sealFindr.py
+This will create an updated chipping executable inside the build folder called dnn_mmod_dog_hipsterizer, which you should rename seal.exe and place into the parent folder with sealFindr.py
 
-Sample on linux:
+cd build
 
-cd Release
-
-cp dnn_mmod_dog_hipsterizer.exe ../../seal.exe 
+cp dnn_mmod_dog_hipsterizer ../seal.exe 
 (This will create a copy of the new executable with the correct name in the parent folder)
 
 
