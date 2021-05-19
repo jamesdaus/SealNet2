@@ -18,7 +18,7 @@ set(THREADS_PREFER_PTHREAD_FLAG ON)
 
 if (NOT DEFINED DLIB_PATH)
    #set(DLIB_PATH "C:/Program Files/dlib-19.21")
-   set(DLIB_PATH "/Users/Hieudo/Documents/Summer Research/dlib-19.22")
+   set(DLIB_PATH "/users/jdaus/dlib-19.6")
    #set(DLIB_PATH "../dlib-19.6")
 endif()
 
