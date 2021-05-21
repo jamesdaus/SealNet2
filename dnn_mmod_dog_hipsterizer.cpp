@@ -131,6 +131,7 @@ int main(int argc, char** argv) try
             cout << "try pyramid up" << endl;
             pyramid_up(img);
             dets = net(img);
+            cout << "size: " << dets.size() << endl;
         }
         catch(std::bad_alloc& ba) { //Catches bad alllocation (too big)
             cout << "bad alloc pyramid up" << endl;

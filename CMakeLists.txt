@@ -18,7 +18,7 @@ set(THREADS_PREFER_PTHREAD_FLAG ON)
 
 if (NOT DEFINED DLIB_PATH)
    #set(DLIB_PATH "C:/Program Files/dlib-19.21")
-   set(DLIB_PATH "/users/jdaus/dlib-19.6")
+   set(DLIB_PATH "/data/hieu_workspace/dlib-19.22")
    #set(DLIB_PATH "../dlib-19.6")
 endif()
 
@@ -126,6 +126,7 @@ endmacro()
 
 if (NOT USING_OLD_VISUAL_STUDIO_COMPILER)
    add_gui_example(dnn_mmod_dog_hipsterizer)
+   #add_gui_example(dnn_mmod_seal)
 endif()
 
 if (DLIB_LINK_WITH_SQLITE3)
