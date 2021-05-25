@@ -1,0 +1,132 @@
+# The set of languages for which implicit dependencies are needed:
+SET(CMAKE_DEPENDS_LANGUAGES
+  "C"
+  "CXX"
+  )
+# The set of files for implicit dependencies of each language:
+SET(CMAKE_DEPENDS_CHECK_C
+  "/data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jaricom.c" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jaricom.c.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcapimin.c" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcapimin.c.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcapistd.c" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcapistd.c.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcarith.c" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcarith.c.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jccoefct.c" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jccoefct.c.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jccolor.c" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jccolor.c.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcdctmgr.c" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcdctmgr.c.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jchuff.c" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jchuff.c.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcinit.c" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcinit.c.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcmainct.c" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcmainct.c.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcmarker.c" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcmarker.c.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcmaster.c" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcmaster.c.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcomapi.c" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcomapi.c.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcparam.c" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcparam.c.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcprepct.c" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcprepct.c.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcsample.c" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcsample.c.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdapimin.c" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdapimin.c.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdapistd.c" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdapistd.c.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdarith.c" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdarith.c.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdatadst.c" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdatadst.c.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdatasrc.c" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdatasrc.c.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdcoefct.c" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdcoefct.c.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdcolor.c" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdcolor.c.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jddctmgr.c" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jddctmgr.c.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdhuff.c" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdhuff.c.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdinput.c" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdinput.c.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdmainct.c" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdmainct.c.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdmarker.c" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdmarker.c.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdmaster.c" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdmaster.c.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdmerge.c" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdmerge.c.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdpostct.c" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdpostct.c.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdsample.c" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdsample.c.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jerror.c" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jerror.c.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jfdctflt.c" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jfdctflt.c.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jfdctfst.c" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jfdctfst.c.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jfdctint.c" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jfdctint.c.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jidctflt.c" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jidctflt.c.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jidctfst.c" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jidctfst.c.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jidctint.c" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jidctint.c.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jmemmgr.c" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jmemmgr.c.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jmemnobs.c" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jmemnobs.c.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jquant1.c" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jquant1.c.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jquant2.c" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jquant2.c.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jutils.c" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jutils.c.o"
+  )
+SET(CMAKE_C_COMPILER_ID "GNU")
+SET(CMAKE_DEPENDS_CHECK_CXX
+  "/data/hieu_workspace/dlib-19.22/dlib/base64/base64_kernel_1.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/base64/base64_kernel_1.cpp.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/bigint/bigint_kernel_1.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/bigint/bigint_kernel_1.cpp.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/bigint/bigint_kernel_2.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/bigint/bigint_kernel_2.cpp.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/bit_stream/bit_stream_kernel_1.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/bit_stream/bit_stream_kernel_1.cpp.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/bsp/bsp.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/bsp/bsp.cpp.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/cuda/cpu_dlib.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/cuda/cpu_dlib.cpp.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/cuda/tensor_tools.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/cuda/tensor_tools.cpp.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/data_io/cifar.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/data_io/cifar.cpp.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/data_io/image_dataset_metadata.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/data_io/image_dataset_metadata.cpp.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/data_io/mnist.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/data_io/mnist.cpp.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/dir_nav/dir_nav_extensions.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/dir_nav/dir_nav_extensions.cpp.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/dir_nav/dir_nav_kernel_1.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/dir_nav/dir_nav_kernel_1.cpp.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/dir_nav/dir_nav_kernel_2.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/dir_nav/dir_nav_kernel_2.cpp.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/entropy_decoder/entropy_decoder_kernel_1.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/entropy_decoder/entropy_decoder_kernel_1.cpp.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/entropy_decoder/entropy_decoder_kernel_2.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/entropy_decoder/entropy_decoder_kernel_2.cpp.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/entropy_encoder/entropy_encoder_kernel_1.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/entropy_encoder/entropy_encoder_kernel_1.cpp.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/entropy_encoder/entropy_encoder_kernel_2.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/entropy_encoder/entropy_encoder_kernel_2.cpp.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/filtering/kalman_filter.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/filtering/kalman_filter.cpp.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/global_optimization/global_function_search.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/global_optimization/global_function_search.cpp.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/gui_core/gui_core_kernel_1.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/gui_core/gui_core_kernel_1.cpp.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/gui_core/gui_core_kernel_2.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/gui_core/gui_core_kernel_2.cpp.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/gui_widgets/base_widgets.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/gui_widgets/base_widgets.cpp.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/gui_widgets/canvas_drawing.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/gui_widgets/canvas_drawing.cpp.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/gui_widgets/drawable.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/gui_widgets/drawable.cpp.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/gui_widgets/fonts.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/gui_widgets/fonts.cpp.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/gui_widgets/style.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/gui_widgets/style.cpp.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/gui_widgets/widgets.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/gui_widgets/widgets.cpp.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/image_loader/jpeg_loader.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/image_loader/jpeg_loader.cpp.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/image_loader/png_loader.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/image_loader/png_loader.cpp.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/image_saver/save_jpeg.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/image_saver/save_jpeg.cpp.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/image_saver/save_png.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/image_saver/save_png.cpp.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/linker/linker_kernel_1.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/linker/linker_kernel_1.cpp.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/logger/extra_logger_headers.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/logger/extra_logger_headers.cpp.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/logger/logger_config_file.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/logger/logger_config_file.cpp.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/logger/logger_kernel_1.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/logger/logger_kernel_1.cpp.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/md5/md5_kernel_1.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/md5/md5_kernel_1.cpp.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/misc_api/misc_api_kernel_1.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/misc_api/misc_api_kernel_1.cpp.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/misc_api/misc_api_kernel_2.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/misc_api/misc_api_kernel_2.cpp.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/server/server_http.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/server/server_http.cpp.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/server/server_iostream.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/server/server_iostream.cpp.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/server/server_kernel.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/server/server_kernel.cpp.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/sockets/sockets_extensions.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/sockets/sockets_extensions.cpp.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/sockets/sockets_kernel_1.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/sockets/sockets_kernel_1.cpp.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/sockets/sockets_kernel_2.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/sockets/sockets_kernel_2.cpp.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/sockstreambuf/sockstreambuf.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/sockstreambuf/sockstreambuf.cpp.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/sockstreambuf/sockstreambuf_unbuffered.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/sockstreambuf/sockstreambuf_unbuffered.cpp.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/stack_trace.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/stack_trace.cpp.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/svm/auto.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/svm/auto.cpp.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/test_for_odr_violations.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/test_for_odr_violations.cpp.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/threads/async.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/threads/async.cpp.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/threads/multithreaded_object_extension.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/threads/multithreaded_object_extension.cpp.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/threads/thread_pool_extension.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/threads/thread_pool_extension.cpp.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/threads/threaded_object_extension.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/threads/threaded_object_extension.cpp.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/threads/threads_kernel_1.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/threads/threads_kernel_1.cpp.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/threads/threads_kernel_2.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/threads/threads_kernel_2.cpp.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/threads/threads_kernel_shared.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/threads/threads_kernel_shared.cpp.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/timer/timer.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/timer/timer.cpp.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/tokenizer/tokenizer_kernel_1.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/tokenizer/tokenizer_kernel_1.cpp.o"
+  "/data/hieu_workspace/dlib-19.22/dlib/unicode/unicode.cpp" "/data/hieu_workspace/SealNet2/build/dlib_build/CMakeFiles/dlib.dir/unicode/unicode.cpp.o"
+  )
+SET(CMAKE_CXX_COMPILER_ID "GNU")
+
+# Preprocessor definitions for this target.
+SET(CMAKE_TARGET_DEFINITIONS
+  "DLIB_JPEG_STATIC"
+  )
+
+# Targets to which this target links.
+SET(CMAKE_TARGET_LINKED_INFO_FILES
+  )
+
+# The include file search paths:
+SET(CMAKE_C_TARGET_INCLUDE_PATH
+  "/usr/local/include"
+  )
+SET(CMAKE_CXX_TARGET_INCLUDE_PATH ${CMAKE_C_TARGET_INCLUDE_PATH})
+SET(CMAKE_Fortran_TARGET_INCLUDE_PATH ${CMAKE_C_TARGET_INCLUDE_PATH})
+SET(CMAKE_ASM_TARGET_INCLUDE_PATH ${CMAKE_C_TARGET_INCLUDE_PATH})
