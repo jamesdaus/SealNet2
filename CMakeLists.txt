@@ -17,9 +17,7 @@ set(THREADS_PREFER_PTHREAD_FLAG ON)
 # cmake --build . --config Release
 
 if (NOT DEFINED DLIB_PATH)
-   #set(DLIB_PATH "C:/Program Files/dlib-19.21")
-   set(DLIB_PATH "/data/hieu_workspace/dlib-19.22")
-   #set(DLIB_PATH "../dlib-19.6")
+   set(DLIB_PATH "../dlib")
 endif()
 
 include(${DLIB_PATH}/dlib/cmake)
@@ -76,5 +74,12 @@ target_link_libraries(model dlib::dlib)
 # arguments to -G to see what kinds of projects cmake can generate for you.  It
 # probably includes your favorite IDE in the list.
 
+macro(add_gui_example random_cropper_ex.cpp)
+   if (DLIB_NO_GUI_SUPPORT)
+      message("No GUI support, so we won't build the ${name} example.")
+   else()
+      add_example(${name})
+   endif()
+endmacro()
 
-
+ 

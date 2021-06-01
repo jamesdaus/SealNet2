@@ -1,1 +1,1 @@
-/usr/bin/c++       CMakeFiles/libpng_test.dir/libpng_test.cpp.o  -o libpng_test -rdynamic /usr/local/lib/libpng.so -lz -Wl,-rpath,/usr/local/lib 
+/usr/bin/g++       CMakeFiles/libpng_test.dir/libpng_test.cpp.o  -o libpng_test -rdynamic /usr/local/lib/libpng.so -lz -Wl,-rpath,/usr/local/lib 

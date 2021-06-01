@@ -56,15 +56,15 @@ dlib_build/CMakeFiles/dlib.dir/base64/base64_kernel_1.cpp.o: dlib_build/CMakeFil
 dlib_build/CMakeFiles/dlib.dir/base64/base64_kernel_1.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/base64/base64_kernel_1.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_1)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/base64/base64_kernel_1.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/base64/base64_kernel_1.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/base64/base64_kernel_1.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/base64/base64_kernel_1.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/base64/base64_kernel_1.cpp
 
 dlib_build/CMakeFiles/dlib.dir/base64/base64_kernel_1.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/base64/base64_kernel_1.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/base64/base64_kernel_1.cpp > CMakeFiles/dlib.dir/base64/base64_kernel_1.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/base64/base64_kernel_1.cpp > CMakeFiles/dlib.dir/base64/base64_kernel_1.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/base64/base64_kernel_1.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/base64/base64_kernel_1.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/base64/base64_kernel_1.cpp -o CMakeFiles/dlib.dir/base64/base64_kernel_1.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/base64/base64_kernel_1.cpp -o CMakeFiles/dlib.dir/base64/base64_kernel_1.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/base64/base64_kernel_1.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/base64/base64_kernel_1.cpp.o.requires
@@ -79,15 +79,15 @@ dlib_build/CMakeFiles/dlib.dir/bigint/bigint_kernel_1.cpp.o: dlib_build/CMakeFil
 dlib_build/CMakeFiles/dlib.dir/bigint/bigint_kernel_1.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/bigint/bigint_kernel_1.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_2)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/bigint/bigint_kernel_1.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/bigint/bigint_kernel_1.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/bigint/bigint_kernel_1.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/bigint/bigint_kernel_1.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/bigint/bigint_kernel_1.cpp
 
 dlib_build/CMakeFiles/dlib.dir/bigint/bigint_kernel_1.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/bigint/bigint_kernel_1.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/bigint/bigint_kernel_1.cpp > CMakeFiles/dlib.dir/bigint/bigint_kernel_1.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/bigint/bigint_kernel_1.cpp > CMakeFiles/dlib.dir/bigint/bigint_kernel_1.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/bigint/bigint_kernel_1.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/bigint/bigint_kernel_1.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/bigint/bigint_kernel_1.cpp -o CMakeFiles/dlib.dir/bigint/bigint_kernel_1.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/bigint/bigint_kernel_1.cpp -o CMakeFiles/dlib.dir/bigint/bigint_kernel_1.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/bigint/bigint_kernel_1.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/bigint/bigint_kernel_1.cpp.o.requires
@@ -102,15 +102,15 @@ dlib_build/CMakeFiles/dlib.dir/bigint/bigint_kernel_2.cpp.o: dlib_build/CMakeFil
 dlib_build/CMakeFiles/dlib.dir/bigint/bigint_kernel_2.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/bigint/bigint_kernel_2.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_3)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/bigint/bigint_kernel_2.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/bigint/bigint_kernel_2.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/bigint/bigint_kernel_2.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/bigint/bigint_kernel_2.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/bigint/bigint_kernel_2.cpp
 
 dlib_build/CMakeFiles/dlib.dir/bigint/bigint_kernel_2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/bigint/bigint_kernel_2.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/bigint/bigint_kernel_2.cpp > CMakeFiles/dlib.dir/bigint/bigint_kernel_2.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/bigint/bigint_kernel_2.cpp > CMakeFiles/dlib.dir/bigint/bigint_kernel_2.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/bigint/bigint_kernel_2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/bigint/bigint_kernel_2.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/bigint/bigint_kernel_2.cpp -o CMakeFiles/dlib.dir/bigint/bigint_kernel_2.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/bigint/bigint_kernel_2.cpp -o CMakeFiles/dlib.dir/bigint/bigint_kernel_2.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/bigint/bigint_kernel_2.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/bigint/bigint_kernel_2.cpp.o.requires
@@ -125,15 +125,15 @@ dlib_build/CMakeFiles/dlib.dir/bit_stream/bit_stream_kernel_1.cpp.o: dlib_build/
 dlib_build/CMakeFiles/dlib.dir/bit_stream/bit_stream_kernel_1.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/bit_stream/bit_stream_kernel_1.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_4)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/bit_stream/bit_stream_kernel_1.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/bit_stream/bit_stream_kernel_1.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/bit_stream/bit_stream_kernel_1.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/bit_stream/bit_stream_kernel_1.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/bit_stream/bit_stream_kernel_1.cpp
 
 dlib_build/CMakeFiles/dlib.dir/bit_stream/bit_stream_kernel_1.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/bit_stream/bit_stream_kernel_1.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/bit_stream/bit_stream_kernel_1.cpp > CMakeFiles/dlib.dir/bit_stream/bit_stream_kernel_1.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/bit_stream/bit_stream_kernel_1.cpp > CMakeFiles/dlib.dir/bit_stream/bit_stream_kernel_1.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/bit_stream/bit_stream_kernel_1.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/bit_stream/bit_stream_kernel_1.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/bit_stream/bit_stream_kernel_1.cpp -o CMakeFiles/dlib.dir/bit_stream/bit_stream_kernel_1.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/bit_stream/bit_stream_kernel_1.cpp -o CMakeFiles/dlib.dir/bit_stream/bit_stream_kernel_1.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/bit_stream/bit_stream_kernel_1.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/bit_stream/bit_stream_kernel_1.cpp.o.requires
@@ -148,15 +148,15 @@ dlib_build/CMakeFiles/dlib.dir/entropy_decoder/entropy_decoder_kernel_1.cpp.o: d
 dlib_build/CMakeFiles/dlib.dir/entropy_decoder/entropy_decoder_kernel_1.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/entropy_decoder/entropy_decoder_kernel_1.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_5)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/entropy_decoder/entropy_decoder_kernel_1.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/entropy_decoder/entropy_decoder_kernel_1.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/entropy_decoder/entropy_decoder_kernel_1.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/entropy_decoder/entropy_decoder_kernel_1.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/entropy_decoder/entropy_decoder_kernel_1.cpp
 
 dlib_build/CMakeFiles/dlib.dir/entropy_decoder/entropy_decoder_kernel_1.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/entropy_decoder/entropy_decoder_kernel_1.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/entropy_decoder/entropy_decoder_kernel_1.cpp > CMakeFiles/dlib.dir/entropy_decoder/entropy_decoder_kernel_1.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/entropy_decoder/entropy_decoder_kernel_1.cpp > CMakeFiles/dlib.dir/entropy_decoder/entropy_decoder_kernel_1.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/entropy_decoder/entropy_decoder_kernel_1.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/entropy_decoder/entropy_decoder_kernel_1.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/entropy_decoder/entropy_decoder_kernel_1.cpp -o CMakeFiles/dlib.dir/entropy_decoder/entropy_decoder_kernel_1.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/entropy_decoder/entropy_decoder_kernel_1.cpp -o CMakeFiles/dlib.dir/entropy_decoder/entropy_decoder_kernel_1.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/entropy_decoder/entropy_decoder_kernel_1.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/entropy_decoder/entropy_decoder_kernel_1.cpp.o.requires
@@ -171,15 +171,15 @@ dlib_build/CMakeFiles/dlib.dir/entropy_decoder/entropy_decoder_kernel_2.cpp.o: d
 dlib_build/CMakeFiles/dlib.dir/entropy_decoder/entropy_decoder_kernel_2.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/entropy_decoder/entropy_decoder_kernel_2.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_6)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/entropy_decoder/entropy_decoder_kernel_2.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/entropy_decoder/entropy_decoder_kernel_2.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/entropy_decoder/entropy_decoder_kernel_2.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/entropy_decoder/entropy_decoder_kernel_2.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/entropy_decoder/entropy_decoder_kernel_2.cpp
 
 dlib_build/CMakeFiles/dlib.dir/entropy_decoder/entropy_decoder_kernel_2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/entropy_decoder/entropy_decoder_kernel_2.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/entropy_decoder/entropy_decoder_kernel_2.cpp > CMakeFiles/dlib.dir/entropy_decoder/entropy_decoder_kernel_2.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/entropy_decoder/entropy_decoder_kernel_2.cpp > CMakeFiles/dlib.dir/entropy_decoder/entropy_decoder_kernel_2.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/entropy_decoder/entropy_decoder_kernel_2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/entropy_decoder/entropy_decoder_kernel_2.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/entropy_decoder/entropy_decoder_kernel_2.cpp -o CMakeFiles/dlib.dir/entropy_decoder/entropy_decoder_kernel_2.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/entropy_decoder/entropy_decoder_kernel_2.cpp -o CMakeFiles/dlib.dir/entropy_decoder/entropy_decoder_kernel_2.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/entropy_decoder/entropy_decoder_kernel_2.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/entropy_decoder/entropy_decoder_kernel_2.cpp.o.requires
@@ -194,15 +194,15 @@ dlib_build/CMakeFiles/dlib.dir/entropy_encoder/entropy_encoder_kernel_1.cpp.o: d
 dlib_build/CMakeFiles/dlib.dir/entropy_encoder/entropy_encoder_kernel_1.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/entropy_encoder/entropy_encoder_kernel_1.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_7)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/entropy_encoder/entropy_encoder_kernel_1.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/entropy_encoder/entropy_encoder_kernel_1.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/entropy_encoder/entropy_encoder_kernel_1.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/entropy_encoder/entropy_encoder_kernel_1.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/entropy_encoder/entropy_encoder_kernel_1.cpp
 
 dlib_build/CMakeFiles/dlib.dir/entropy_encoder/entropy_encoder_kernel_1.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/entropy_encoder/entropy_encoder_kernel_1.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/entropy_encoder/entropy_encoder_kernel_1.cpp > CMakeFiles/dlib.dir/entropy_encoder/entropy_encoder_kernel_1.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/entropy_encoder/entropy_encoder_kernel_1.cpp > CMakeFiles/dlib.dir/entropy_encoder/entropy_encoder_kernel_1.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/entropy_encoder/entropy_encoder_kernel_1.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/entropy_encoder/entropy_encoder_kernel_1.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/entropy_encoder/entropy_encoder_kernel_1.cpp -o CMakeFiles/dlib.dir/entropy_encoder/entropy_encoder_kernel_1.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/entropy_encoder/entropy_encoder_kernel_1.cpp -o CMakeFiles/dlib.dir/entropy_encoder/entropy_encoder_kernel_1.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/entropy_encoder/entropy_encoder_kernel_1.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/entropy_encoder/entropy_encoder_kernel_1.cpp.o.requires
@@ -217,15 +217,15 @@ dlib_build/CMakeFiles/dlib.dir/entropy_encoder/entropy_encoder_kernel_2.cpp.o: d
 dlib_build/CMakeFiles/dlib.dir/entropy_encoder/entropy_encoder_kernel_2.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/entropy_encoder/entropy_encoder_kernel_2.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_8)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/entropy_encoder/entropy_encoder_kernel_2.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/entropy_encoder/entropy_encoder_kernel_2.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/entropy_encoder/entropy_encoder_kernel_2.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/entropy_encoder/entropy_encoder_kernel_2.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/entropy_encoder/entropy_encoder_kernel_2.cpp
 
 dlib_build/CMakeFiles/dlib.dir/entropy_encoder/entropy_encoder_kernel_2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/entropy_encoder/entropy_encoder_kernel_2.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/entropy_encoder/entropy_encoder_kernel_2.cpp > CMakeFiles/dlib.dir/entropy_encoder/entropy_encoder_kernel_2.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/entropy_encoder/entropy_encoder_kernel_2.cpp > CMakeFiles/dlib.dir/entropy_encoder/entropy_encoder_kernel_2.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/entropy_encoder/entropy_encoder_kernel_2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/entropy_encoder/entropy_encoder_kernel_2.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/entropy_encoder/entropy_encoder_kernel_2.cpp -o CMakeFiles/dlib.dir/entropy_encoder/entropy_encoder_kernel_2.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/entropy_encoder/entropy_encoder_kernel_2.cpp -o CMakeFiles/dlib.dir/entropy_encoder/entropy_encoder_kernel_2.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/entropy_encoder/entropy_encoder_kernel_2.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/entropy_encoder/entropy_encoder_kernel_2.cpp.o.requires
@@ -240,15 +240,15 @@ dlib_build/CMakeFiles/dlib.dir/gui_widgets/fonts.cpp.o: dlib_build/CMakeFiles/dl
 dlib_build/CMakeFiles/dlib.dir/gui_widgets/fonts.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/gui_widgets/fonts.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_9)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/gui_widgets/fonts.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/gui_widgets/fonts.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/gui_widgets/fonts.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/gui_widgets/fonts.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/gui_widgets/fonts.cpp
 
 dlib_build/CMakeFiles/dlib.dir/gui_widgets/fonts.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/gui_widgets/fonts.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/gui_widgets/fonts.cpp > CMakeFiles/dlib.dir/gui_widgets/fonts.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/gui_widgets/fonts.cpp > CMakeFiles/dlib.dir/gui_widgets/fonts.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/gui_widgets/fonts.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/gui_widgets/fonts.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/gui_widgets/fonts.cpp -o CMakeFiles/dlib.dir/gui_widgets/fonts.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/gui_widgets/fonts.cpp -o CMakeFiles/dlib.dir/gui_widgets/fonts.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/gui_widgets/fonts.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/gui_widgets/fonts.cpp.o.requires
@@ -263,15 +263,15 @@ dlib_build/CMakeFiles/dlib.dir/md5/md5_kernel_1.cpp.o: dlib_build/CMakeFiles/dli
 dlib_build/CMakeFiles/dlib.dir/md5/md5_kernel_1.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/md5/md5_kernel_1.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_10)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/md5/md5_kernel_1.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/md5/md5_kernel_1.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/md5/md5_kernel_1.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/md5/md5_kernel_1.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/md5/md5_kernel_1.cpp
 
 dlib_build/CMakeFiles/dlib.dir/md5/md5_kernel_1.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/md5/md5_kernel_1.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/md5/md5_kernel_1.cpp > CMakeFiles/dlib.dir/md5/md5_kernel_1.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/md5/md5_kernel_1.cpp > CMakeFiles/dlib.dir/md5/md5_kernel_1.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/md5/md5_kernel_1.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/md5/md5_kernel_1.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/md5/md5_kernel_1.cpp -o CMakeFiles/dlib.dir/md5/md5_kernel_1.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/md5/md5_kernel_1.cpp -o CMakeFiles/dlib.dir/md5/md5_kernel_1.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/md5/md5_kernel_1.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/md5/md5_kernel_1.cpp.o.requires
@@ -286,15 +286,15 @@ dlib_build/CMakeFiles/dlib.dir/tokenizer/tokenizer_kernel_1.cpp.o: dlib_build/CM
 dlib_build/CMakeFiles/dlib.dir/tokenizer/tokenizer_kernel_1.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/tokenizer/tokenizer_kernel_1.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_11)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/tokenizer/tokenizer_kernel_1.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/tokenizer/tokenizer_kernel_1.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/tokenizer/tokenizer_kernel_1.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/tokenizer/tokenizer_kernel_1.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/tokenizer/tokenizer_kernel_1.cpp
 
 dlib_build/CMakeFiles/dlib.dir/tokenizer/tokenizer_kernel_1.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/tokenizer/tokenizer_kernel_1.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/tokenizer/tokenizer_kernel_1.cpp > CMakeFiles/dlib.dir/tokenizer/tokenizer_kernel_1.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/tokenizer/tokenizer_kernel_1.cpp > CMakeFiles/dlib.dir/tokenizer/tokenizer_kernel_1.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/tokenizer/tokenizer_kernel_1.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/tokenizer/tokenizer_kernel_1.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/tokenizer/tokenizer_kernel_1.cpp -o CMakeFiles/dlib.dir/tokenizer/tokenizer_kernel_1.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/tokenizer/tokenizer_kernel_1.cpp -o CMakeFiles/dlib.dir/tokenizer/tokenizer_kernel_1.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/tokenizer/tokenizer_kernel_1.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/tokenizer/tokenizer_kernel_1.cpp.o.requires
@@ -309,15 +309,15 @@ dlib_build/CMakeFiles/dlib.dir/unicode/unicode.cpp.o: dlib_build/CMakeFiles/dlib
 dlib_build/CMakeFiles/dlib.dir/unicode/unicode.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/unicode/unicode.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_12)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/unicode/unicode.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/unicode/unicode.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/unicode/unicode.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/unicode/unicode.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/unicode/unicode.cpp
 
 dlib_build/CMakeFiles/dlib.dir/unicode/unicode.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/unicode/unicode.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/unicode/unicode.cpp > CMakeFiles/dlib.dir/unicode/unicode.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/unicode/unicode.cpp > CMakeFiles/dlib.dir/unicode/unicode.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/unicode/unicode.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/unicode/unicode.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/unicode/unicode.cpp -o CMakeFiles/dlib.dir/unicode/unicode.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/unicode/unicode.cpp -o CMakeFiles/dlib.dir/unicode/unicode.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/unicode/unicode.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/unicode/unicode.cpp.o.requires
@@ -332,15 +332,15 @@ dlib_build/CMakeFiles/dlib.dir/test_for_odr_violations.cpp.o: dlib_build/CMakeFi
 dlib_build/CMakeFiles/dlib.dir/test_for_odr_violations.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/test_for_odr_violations.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_13)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/test_for_odr_violations.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/test_for_odr_violations.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/test_for_odr_violations.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/test_for_odr_violations.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/test_for_odr_violations.cpp
 
 dlib_build/CMakeFiles/dlib.dir/test_for_odr_violations.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/test_for_odr_violations.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/test_for_odr_violations.cpp > CMakeFiles/dlib.dir/test_for_odr_violations.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/test_for_odr_violations.cpp > CMakeFiles/dlib.dir/test_for_odr_violations.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/test_for_odr_violations.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/test_for_odr_violations.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/test_for_odr_violations.cpp -o CMakeFiles/dlib.dir/test_for_odr_violations.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/test_for_odr_violations.cpp -o CMakeFiles/dlib.dir/test_for_odr_violations.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/test_for_odr_violations.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/test_for_odr_violations.cpp.o.requires
@@ -355,15 +355,15 @@ dlib_build/CMakeFiles/dlib.dir/sockets/sockets_kernel_1.cpp.o: dlib_build/CMakeF
 dlib_build/CMakeFiles/dlib.dir/sockets/sockets_kernel_1.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/sockets/sockets_kernel_1.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_14)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/sockets/sockets_kernel_1.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/sockets/sockets_kernel_1.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/sockets/sockets_kernel_1.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/sockets/sockets_kernel_1.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/sockets/sockets_kernel_1.cpp
 
 dlib_build/CMakeFiles/dlib.dir/sockets/sockets_kernel_1.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/sockets/sockets_kernel_1.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/sockets/sockets_kernel_1.cpp > CMakeFiles/dlib.dir/sockets/sockets_kernel_1.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/sockets/sockets_kernel_1.cpp > CMakeFiles/dlib.dir/sockets/sockets_kernel_1.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/sockets/sockets_kernel_1.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/sockets/sockets_kernel_1.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/sockets/sockets_kernel_1.cpp -o CMakeFiles/dlib.dir/sockets/sockets_kernel_1.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/sockets/sockets_kernel_1.cpp -o CMakeFiles/dlib.dir/sockets/sockets_kernel_1.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/sockets/sockets_kernel_1.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/sockets/sockets_kernel_1.cpp.o.requires
@@ -378,15 +378,15 @@ dlib_build/CMakeFiles/dlib.dir/bsp/bsp.cpp.o: dlib_build/CMakeFiles/dlib.dir/fla
 dlib_build/CMakeFiles/dlib.dir/bsp/bsp.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/bsp/bsp.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_15)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/bsp/bsp.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/bsp/bsp.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/bsp/bsp.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/bsp/bsp.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/bsp/bsp.cpp
 
 dlib_build/CMakeFiles/dlib.dir/bsp/bsp.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/bsp/bsp.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/bsp/bsp.cpp > CMakeFiles/dlib.dir/bsp/bsp.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/bsp/bsp.cpp > CMakeFiles/dlib.dir/bsp/bsp.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/bsp/bsp.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/bsp/bsp.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/bsp/bsp.cpp -o CMakeFiles/dlib.dir/bsp/bsp.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/bsp/bsp.cpp -o CMakeFiles/dlib.dir/bsp/bsp.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/bsp/bsp.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/bsp/bsp.cpp.o.requires
@@ -401,15 +401,15 @@ dlib_build/CMakeFiles/dlib.dir/dir_nav/dir_nav_kernel_1.cpp.o: dlib_build/CMakeF
 dlib_build/CMakeFiles/dlib.dir/dir_nav/dir_nav_kernel_1.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/dir_nav/dir_nav_kernel_1.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_16)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/dir_nav/dir_nav_kernel_1.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/dir_nav/dir_nav_kernel_1.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/dir_nav/dir_nav_kernel_1.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/dir_nav/dir_nav_kernel_1.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/dir_nav/dir_nav_kernel_1.cpp
 
 dlib_build/CMakeFiles/dlib.dir/dir_nav/dir_nav_kernel_1.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/dir_nav/dir_nav_kernel_1.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/dir_nav/dir_nav_kernel_1.cpp > CMakeFiles/dlib.dir/dir_nav/dir_nav_kernel_1.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/dir_nav/dir_nav_kernel_1.cpp > CMakeFiles/dlib.dir/dir_nav/dir_nav_kernel_1.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/dir_nav/dir_nav_kernel_1.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/dir_nav/dir_nav_kernel_1.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/dir_nav/dir_nav_kernel_1.cpp -o CMakeFiles/dlib.dir/dir_nav/dir_nav_kernel_1.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/dir_nav/dir_nav_kernel_1.cpp -o CMakeFiles/dlib.dir/dir_nav/dir_nav_kernel_1.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/dir_nav/dir_nav_kernel_1.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/dir_nav/dir_nav_kernel_1.cpp.o.requires
@@ -424,15 +424,15 @@ dlib_build/CMakeFiles/dlib.dir/dir_nav/dir_nav_kernel_2.cpp.o: dlib_build/CMakeF
 dlib_build/CMakeFiles/dlib.dir/dir_nav/dir_nav_kernel_2.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/dir_nav/dir_nav_kernel_2.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_17)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/dir_nav/dir_nav_kernel_2.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/dir_nav/dir_nav_kernel_2.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/dir_nav/dir_nav_kernel_2.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/dir_nav/dir_nav_kernel_2.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/dir_nav/dir_nav_kernel_2.cpp
 
 dlib_build/CMakeFiles/dlib.dir/dir_nav/dir_nav_kernel_2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/dir_nav/dir_nav_kernel_2.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/dir_nav/dir_nav_kernel_2.cpp > CMakeFiles/dlib.dir/dir_nav/dir_nav_kernel_2.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/dir_nav/dir_nav_kernel_2.cpp > CMakeFiles/dlib.dir/dir_nav/dir_nav_kernel_2.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/dir_nav/dir_nav_kernel_2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/dir_nav/dir_nav_kernel_2.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/dir_nav/dir_nav_kernel_2.cpp -o CMakeFiles/dlib.dir/dir_nav/dir_nav_kernel_2.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/dir_nav/dir_nav_kernel_2.cpp -o CMakeFiles/dlib.dir/dir_nav/dir_nav_kernel_2.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/dir_nav/dir_nav_kernel_2.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/dir_nav/dir_nav_kernel_2.cpp.o.requires
@@ -447,15 +447,15 @@ dlib_build/CMakeFiles/dlib.dir/dir_nav/dir_nav_extensions.cpp.o: dlib_build/CMak
 dlib_build/CMakeFiles/dlib.dir/dir_nav/dir_nav_extensions.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/dir_nav/dir_nav_extensions.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_18)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/dir_nav/dir_nav_extensions.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/dir_nav/dir_nav_extensions.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/dir_nav/dir_nav_extensions.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/dir_nav/dir_nav_extensions.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/dir_nav/dir_nav_extensions.cpp
 
 dlib_build/CMakeFiles/dlib.dir/dir_nav/dir_nav_extensions.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/dir_nav/dir_nav_extensions.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/dir_nav/dir_nav_extensions.cpp > CMakeFiles/dlib.dir/dir_nav/dir_nav_extensions.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/dir_nav/dir_nav_extensions.cpp > CMakeFiles/dlib.dir/dir_nav/dir_nav_extensions.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/dir_nav/dir_nav_extensions.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/dir_nav/dir_nav_extensions.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/dir_nav/dir_nav_extensions.cpp -o CMakeFiles/dlib.dir/dir_nav/dir_nav_extensions.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/dir_nav/dir_nav_extensions.cpp -o CMakeFiles/dlib.dir/dir_nav/dir_nav_extensions.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/dir_nav/dir_nav_extensions.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/dir_nav/dir_nav_extensions.cpp.o.requires
@@ -470,15 +470,15 @@ dlib_build/CMakeFiles/dlib.dir/linker/linker_kernel_1.cpp.o: dlib_build/CMakeFil
 dlib_build/CMakeFiles/dlib.dir/linker/linker_kernel_1.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/linker/linker_kernel_1.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_19)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/linker/linker_kernel_1.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/linker/linker_kernel_1.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/linker/linker_kernel_1.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/linker/linker_kernel_1.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/linker/linker_kernel_1.cpp
 
 dlib_build/CMakeFiles/dlib.dir/linker/linker_kernel_1.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/linker/linker_kernel_1.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/linker/linker_kernel_1.cpp > CMakeFiles/dlib.dir/linker/linker_kernel_1.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/linker/linker_kernel_1.cpp > CMakeFiles/dlib.dir/linker/linker_kernel_1.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/linker/linker_kernel_1.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/linker/linker_kernel_1.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/linker/linker_kernel_1.cpp -o CMakeFiles/dlib.dir/linker/linker_kernel_1.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/linker/linker_kernel_1.cpp -o CMakeFiles/dlib.dir/linker/linker_kernel_1.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/linker/linker_kernel_1.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/linker/linker_kernel_1.cpp.o.requires
@@ -493,15 +493,15 @@ dlib_build/CMakeFiles/dlib.dir/logger/extra_logger_headers.cpp.o: dlib_build/CMa
 dlib_build/CMakeFiles/dlib.dir/logger/extra_logger_headers.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/logger/extra_logger_headers.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_20)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/logger/extra_logger_headers.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/logger/extra_logger_headers.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/logger/extra_logger_headers.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/logger/extra_logger_headers.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/logger/extra_logger_headers.cpp
 
 dlib_build/CMakeFiles/dlib.dir/logger/extra_logger_headers.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/logger/extra_logger_headers.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/logger/extra_logger_headers.cpp > CMakeFiles/dlib.dir/logger/extra_logger_headers.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/logger/extra_logger_headers.cpp > CMakeFiles/dlib.dir/logger/extra_logger_headers.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/logger/extra_logger_headers.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/logger/extra_logger_headers.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/logger/extra_logger_headers.cpp -o CMakeFiles/dlib.dir/logger/extra_logger_headers.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/logger/extra_logger_headers.cpp -o CMakeFiles/dlib.dir/logger/extra_logger_headers.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/logger/extra_logger_headers.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/logger/extra_logger_headers.cpp.o.requires
@@ -516,15 +516,15 @@ dlib_build/CMakeFiles/dlib.dir/logger/logger_kernel_1.cpp.o: dlib_build/CMakeFil
 dlib_build/CMakeFiles/dlib.dir/logger/logger_kernel_1.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/logger/logger_kernel_1.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_21)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/logger/logger_kernel_1.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/logger/logger_kernel_1.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/logger/logger_kernel_1.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/logger/logger_kernel_1.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/logger/logger_kernel_1.cpp
 
 dlib_build/CMakeFiles/dlib.dir/logger/logger_kernel_1.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/logger/logger_kernel_1.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/logger/logger_kernel_1.cpp > CMakeFiles/dlib.dir/logger/logger_kernel_1.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/logger/logger_kernel_1.cpp > CMakeFiles/dlib.dir/logger/logger_kernel_1.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/logger/logger_kernel_1.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/logger/logger_kernel_1.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/logger/logger_kernel_1.cpp -o CMakeFiles/dlib.dir/logger/logger_kernel_1.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/logger/logger_kernel_1.cpp -o CMakeFiles/dlib.dir/logger/logger_kernel_1.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/logger/logger_kernel_1.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/logger/logger_kernel_1.cpp.o.requires
@@ -539,15 +539,15 @@ dlib_build/CMakeFiles/dlib.dir/logger/logger_config_file.cpp.o: dlib_build/CMake
 dlib_build/CMakeFiles/dlib.dir/logger/logger_config_file.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/logger/logger_config_file.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_22)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/logger/logger_config_file.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/logger/logger_config_file.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/logger/logger_config_file.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/logger/logger_config_file.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/logger/logger_config_file.cpp
 
 dlib_build/CMakeFiles/dlib.dir/logger/logger_config_file.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/logger/logger_config_file.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/logger/logger_config_file.cpp > CMakeFiles/dlib.dir/logger/logger_config_file.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/logger/logger_config_file.cpp > CMakeFiles/dlib.dir/logger/logger_config_file.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/logger/logger_config_file.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/logger/logger_config_file.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/logger/logger_config_file.cpp -o CMakeFiles/dlib.dir/logger/logger_config_file.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/logger/logger_config_file.cpp -o CMakeFiles/dlib.dir/logger/logger_config_file.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/logger/logger_config_file.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/logger/logger_config_file.cpp.o.requires
@@ -562,15 +562,15 @@ dlib_build/CMakeFiles/dlib.dir/misc_api/misc_api_kernel_1.cpp.o: dlib_build/CMak
 dlib_build/CMakeFiles/dlib.dir/misc_api/misc_api_kernel_1.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/misc_api/misc_api_kernel_1.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_23)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/misc_api/misc_api_kernel_1.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/misc_api/misc_api_kernel_1.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/misc_api/misc_api_kernel_1.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/misc_api/misc_api_kernel_1.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/misc_api/misc_api_kernel_1.cpp
 
 dlib_build/CMakeFiles/dlib.dir/misc_api/misc_api_kernel_1.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/misc_api/misc_api_kernel_1.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/misc_api/misc_api_kernel_1.cpp > CMakeFiles/dlib.dir/misc_api/misc_api_kernel_1.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/misc_api/misc_api_kernel_1.cpp > CMakeFiles/dlib.dir/misc_api/misc_api_kernel_1.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/misc_api/misc_api_kernel_1.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/misc_api/misc_api_kernel_1.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/misc_api/misc_api_kernel_1.cpp -o CMakeFiles/dlib.dir/misc_api/misc_api_kernel_1.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/misc_api/misc_api_kernel_1.cpp -o CMakeFiles/dlib.dir/misc_api/misc_api_kernel_1.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/misc_api/misc_api_kernel_1.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/misc_api/misc_api_kernel_1.cpp.o.requires
@@ -585,15 +585,15 @@ dlib_build/CMakeFiles/dlib.dir/misc_api/misc_api_kernel_2.cpp.o: dlib_build/CMak
 dlib_build/CMakeFiles/dlib.dir/misc_api/misc_api_kernel_2.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/misc_api/misc_api_kernel_2.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_24)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/misc_api/misc_api_kernel_2.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/misc_api/misc_api_kernel_2.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/misc_api/misc_api_kernel_2.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/misc_api/misc_api_kernel_2.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/misc_api/misc_api_kernel_2.cpp
 
 dlib_build/CMakeFiles/dlib.dir/misc_api/misc_api_kernel_2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/misc_api/misc_api_kernel_2.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/misc_api/misc_api_kernel_2.cpp > CMakeFiles/dlib.dir/misc_api/misc_api_kernel_2.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/misc_api/misc_api_kernel_2.cpp > CMakeFiles/dlib.dir/misc_api/misc_api_kernel_2.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/misc_api/misc_api_kernel_2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/misc_api/misc_api_kernel_2.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/misc_api/misc_api_kernel_2.cpp -o CMakeFiles/dlib.dir/misc_api/misc_api_kernel_2.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/misc_api/misc_api_kernel_2.cpp -o CMakeFiles/dlib.dir/misc_api/misc_api_kernel_2.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/misc_api/misc_api_kernel_2.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/misc_api/misc_api_kernel_2.cpp.o.requires
@@ -608,15 +608,15 @@ dlib_build/CMakeFiles/dlib.dir/sockets/sockets_extensions.cpp.o: dlib_build/CMak
 dlib_build/CMakeFiles/dlib.dir/sockets/sockets_extensions.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/sockets/sockets_extensions.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_25)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/sockets/sockets_extensions.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/sockets/sockets_extensions.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/sockets/sockets_extensions.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/sockets/sockets_extensions.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/sockets/sockets_extensions.cpp
 
 dlib_build/CMakeFiles/dlib.dir/sockets/sockets_extensions.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/sockets/sockets_extensions.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/sockets/sockets_extensions.cpp > CMakeFiles/dlib.dir/sockets/sockets_extensions.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/sockets/sockets_extensions.cpp > CMakeFiles/dlib.dir/sockets/sockets_extensions.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/sockets/sockets_extensions.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/sockets/sockets_extensions.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/sockets/sockets_extensions.cpp -o CMakeFiles/dlib.dir/sockets/sockets_extensions.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/sockets/sockets_extensions.cpp -o CMakeFiles/dlib.dir/sockets/sockets_extensions.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/sockets/sockets_extensions.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/sockets/sockets_extensions.cpp.o.requires
@@ -631,15 +631,15 @@ dlib_build/CMakeFiles/dlib.dir/sockets/sockets_kernel_2.cpp.o: dlib_build/CMakeF
 dlib_build/CMakeFiles/dlib.dir/sockets/sockets_kernel_2.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/sockets/sockets_kernel_2.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_26)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/sockets/sockets_kernel_2.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/sockets/sockets_kernel_2.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/sockets/sockets_kernel_2.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/sockets/sockets_kernel_2.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/sockets/sockets_kernel_2.cpp
 
 dlib_build/CMakeFiles/dlib.dir/sockets/sockets_kernel_2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/sockets/sockets_kernel_2.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/sockets/sockets_kernel_2.cpp > CMakeFiles/dlib.dir/sockets/sockets_kernel_2.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/sockets/sockets_kernel_2.cpp > CMakeFiles/dlib.dir/sockets/sockets_kernel_2.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/sockets/sockets_kernel_2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/sockets/sockets_kernel_2.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/sockets/sockets_kernel_2.cpp -o CMakeFiles/dlib.dir/sockets/sockets_kernel_2.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/sockets/sockets_kernel_2.cpp -o CMakeFiles/dlib.dir/sockets/sockets_kernel_2.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/sockets/sockets_kernel_2.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/sockets/sockets_kernel_2.cpp.o.requires
@@ -654,15 +654,15 @@ dlib_build/CMakeFiles/dlib.dir/sockstreambuf/sockstreambuf.cpp.o: dlib_build/CMa
 dlib_build/CMakeFiles/dlib.dir/sockstreambuf/sockstreambuf.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/sockstreambuf/sockstreambuf.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_27)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/sockstreambuf/sockstreambuf.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/sockstreambuf/sockstreambuf.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/sockstreambuf/sockstreambuf.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/sockstreambuf/sockstreambuf.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/sockstreambuf/sockstreambuf.cpp
 
 dlib_build/CMakeFiles/dlib.dir/sockstreambuf/sockstreambuf.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/sockstreambuf/sockstreambuf.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/sockstreambuf/sockstreambuf.cpp > CMakeFiles/dlib.dir/sockstreambuf/sockstreambuf.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/sockstreambuf/sockstreambuf.cpp > CMakeFiles/dlib.dir/sockstreambuf/sockstreambuf.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/sockstreambuf/sockstreambuf.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/sockstreambuf/sockstreambuf.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/sockstreambuf/sockstreambuf.cpp -o CMakeFiles/dlib.dir/sockstreambuf/sockstreambuf.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/sockstreambuf/sockstreambuf.cpp -o CMakeFiles/dlib.dir/sockstreambuf/sockstreambuf.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/sockstreambuf/sockstreambuf.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/sockstreambuf/sockstreambuf.cpp.o.requires
@@ -677,15 +677,15 @@ dlib_build/CMakeFiles/dlib.dir/sockstreambuf/sockstreambuf_unbuffered.cpp.o: dli
 dlib_build/CMakeFiles/dlib.dir/sockstreambuf/sockstreambuf_unbuffered.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/sockstreambuf/sockstreambuf_unbuffered.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_28)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/sockstreambuf/sockstreambuf_unbuffered.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/sockstreambuf/sockstreambuf_unbuffered.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/sockstreambuf/sockstreambuf_unbuffered.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/sockstreambuf/sockstreambuf_unbuffered.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/sockstreambuf/sockstreambuf_unbuffered.cpp
 
 dlib_build/CMakeFiles/dlib.dir/sockstreambuf/sockstreambuf_unbuffered.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/sockstreambuf/sockstreambuf_unbuffered.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/sockstreambuf/sockstreambuf_unbuffered.cpp > CMakeFiles/dlib.dir/sockstreambuf/sockstreambuf_unbuffered.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/sockstreambuf/sockstreambuf_unbuffered.cpp > CMakeFiles/dlib.dir/sockstreambuf/sockstreambuf_unbuffered.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/sockstreambuf/sockstreambuf_unbuffered.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/sockstreambuf/sockstreambuf_unbuffered.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/sockstreambuf/sockstreambuf_unbuffered.cpp -o CMakeFiles/dlib.dir/sockstreambuf/sockstreambuf_unbuffered.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/sockstreambuf/sockstreambuf_unbuffered.cpp -o CMakeFiles/dlib.dir/sockstreambuf/sockstreambuf_unbuffered.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/sockstreambuf/sockstreambuf_unbuffered.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/sockstreambuf/sockstreambuf_unbuffered.cpp.o.requires
@@ -700,15 +700,15 @@ dlib_build/CMakeFiles/dlib.dir/server/server_kernel.cpp.o: dlib_build/CMakeFiles
 dlib_build/CMakeFiles/dlib.dir/server/server_kernel.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/server/server_kernel.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_29)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/server/server_kernel.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/server/server_kernel.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/server/server_kernel.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/server/server_kernel.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/server/server_kernel.cpp
 
 dlib_build/CMakeFiles/dlib.dir/server/server_kernel.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/server/server_kernel.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/server/server_kernel.cpp > CMakeFiles/dlib.dir/server/server_kernel.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/server/server_kernel.cpp > CMakeFiles/dlib.dir/server/server_kernel.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/server/server_kernel.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/server/server_kernel.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/server/server_kernel.cpp -o CMakeFiles/dlib.dir/server/server_kernel.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/server/server_kernel.cpp -o CMakeFiles/dlib.dir/server/server_kernel.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/server/server_kernel.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/server/server_kernel.cpp.o.requires
@@ -723,15 +723,15 @@ dlib_build/CMakeFiles/dlib.dir/server/server_iostream.cpp.o: dlib_build/CMakeFil
 dlib_build/CMakeFiles/dlib.dir/server/server_iostream.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/server/server_iostream.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_30)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/server/server_iostream.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/server/server_iostream.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/server/server_iostream.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/server/server_iostream.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/server/server_iostream.cpp
 
 dlib_build/CMakeFiles/dlib.dir/server/server_iostream.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/server/server_iostream.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/server/server_iostream.cpp > CMakeFiles/dlib.dir/server/server_iostream.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/server/server_iostream.cpp > CMakeFiles/dlib.dir/server/server_iostream.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/server/server_iostream.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/server/server_iostream.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/server/server_iostream.cpp -o CMakeFiles/dlib.dir/server/server_iostream.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/server/server_iostream.cpp -o CMakeFiles/dlib.dir/server/server_iostream.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/server/server_iostream.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/server/server_iostream.cpp.o.requires
@@ -746,15 +746,15 @@ dlib_build/CMakeFiles/dlib.dir/server/server_http.cpp.o: dlib_build/CMakeFiles/d
 dlib_build/CMakeFiles/dlib.dir/server/server_http.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/server/server_http.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_31)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/server/server_http.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/server/server_http.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/server/server_http.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/server/server_http.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/server/server_http.cpp
 
 dlib_build/CMakeFiles/dlib.dir/server/server_http.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/server/server_http.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/server/server_http.cpp > CMakeFiles/dlib.dir/server/server_http.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/server/server_http.cpp > CMakeFiles/dlib.dir/server/server_http.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/server/server_http.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/server/server_http.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/server/server_http.cpp -o CMakeFiles/dlib.dir/server/server_http.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/server/server_http.cpp -o CMakeFiles/dlib.dir/server/server_http.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/server/server_http.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/server/server_http.cpp.o.requires
@@ -769,15 +769,15 @@ dlib_build/CMakeFiles/dlib.dir/threads/multithreaded_object_extension.cpp.o: dli
 dlib_build/CMakeFiles/dlib.dir/threads/multithreaded_object_extension.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/threads/multithreaded_object_extension.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_32)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/threads/multithreaded_object_extension.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/threads/multithreaded_object_extension.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/threads/multithreaded_object_extension.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/threads/multithreaded_object_extension.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/threads/multithreaded_object_extension.cpp
 
 dlib_build/CMakeFiles/dlib.dir/threads/multithreaded_object_extension.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/threads/multithreaded_object_extension.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/threads/multithreaded_object_extension.cpp > CMakeFiles/dlib.dir/threads/multithreaded_object_extension.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/threads/multithreaded_object_extension.cpp > CMakeFiles/dlib.dir/threads/multithreaded_object_extension.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/threads/multithreaded_object_extension.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/threads/multithreaded_object_extension.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/threads/multithreaded_object_extension.cpp -o CMakeFiles/dlib.dir/threads/multithreaded_object_extension.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/threads/multithreaded_object_extension.cpp -o CMakeFiles/dlib.dir/threads/multithreaded_object_extension.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/threads/multithreaded_object_extension.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/threads/multithreaded_object_extension.cpp.o.requires
@@ -792,15 +792,15 @@ dlib_build/CMakeFiles/dlib.dir/threads/threaded_object_extension.cpp.o: dlib_bui
 dlib_build/CMakeFiles/dlib.dir/threads/threaded_object_extension.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/threads/threaded_object_extension.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_33)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/threads/threaded_object_extension.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/threads/threaded_object_extension.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/threads/threaded_object_extension.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/threads/threaded_object_extension.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/threads/threaded_object_extension.cpp
 
 dlib_build/CMakeFiles/dlib.dir/threads/threaded_object_extension.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/threads/threaded_object_extension.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/threads/threaded_object_extension.cpp > CMakeFiles/dlib.dir/threads/threaded_object_extension.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/threads/threaded_object_extension.cpp > CMakeFiles/dlib.dir/threads/threaded_object_extension.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/threads/threaded_object_extension.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/threads/threaded_object_extension.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/threads/threaded_object_extension.cpp -o CMakeFiles/dlib.dir/threads/threaded_object_extension.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/threads/threaded_object_extension.cpp -o CMakeFiles/dlib.dir/threads/threaded_object_extension.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/threads/threaded_object_extension.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/threads/threaded_object_extension.cpp.o.requires
@@ -815,15 +815,15 @@ dlib_build/CMakeFiles/dlib.dir/threads/threads_kernel_1.cpp.o: dlib_build/CMakeF
 dlib_build/CMakeFiles/dlib.dir/threads/threads_kernel_1.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/threads/threads_kernel_1.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_34)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/threads/threads_kernel_1.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/threads/threads_kernel_1.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/threads/threads_kernel_1.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/threads/threads_kernel_1.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/threads/threads_kernel_1.cpp
 
 dlib_build/CMakeFiles/dlib.dir/threads/threads_kernel_1.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/threads/threads_kernel_1.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/threads/threads_kernel_1.cpp > CMakeFiles/dlib.dir/threads/threads_kernel_1.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/threads/threads_kernel_1.cpp > CMakeFiles/dlib.dir/threads/threads_kernel_1.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/threads/threads_kernel_1.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/threads/threads_kernel_1.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/threads/threads_kernel_1.cpp -o CMakeFiles/dlib.dir/threads/threads_kernel_1.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/threads/threads_kernel_1.cpp -o CMakeFiles/dlib.dir/threads/threads_kernel_1.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/threads/threads_kernel_1.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/threads/threads_kernel_1.cpp.o.requires
@@ -838,15 +838,15 @@ dlib_build/CMakeFiles/dlib.dir/threads/threads_kernel_2.cpp.o: dlib_build/CMakeF
 dlib_build/CMakeFiles/dlib.dir/threads/threads_kernel_2.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/threads/threads_kernel_2.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_35)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/threads/threads_kernel_2.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/threads/threads_kernel_2.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/threads/threads_kernel_2.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/threads/threads_kernel_2.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/threads/threads_kernel_2.cpp
 
 dlib_build/CMakeFiles/dlib.dir/threads/threads_kernel_2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/threads/threads_kernel_2.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/threads/threads_kernel_2.cpp > CMakeFiles/dlib.dir/threads/threads_kernel_2.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/threads/threads_kernel_2.cpp > CMakeFiles/dlib.dir/threads/threads_kernel_2.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/threads/threads_kernel_2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/threads/threads_kernel_2.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/threads/threads_kernel_2.cpp -o CMakeFiles/dlib.dir/threads/threads_kernel_2.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/threads/threads_kernel_2.cpp -o CMakeFiles/dlib.dir/threads/threads_kernel_2.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/threads/threads_kernel_2.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/threads/threads_kernel_2.cpp.o.requires
@@ -861,15 +861,15 @@ dlib_build/CMakeFiles/dlib.dir/threads/threads_kernel_shared.cpp.o: dlib_build/C
 dlib_build/CMakeFiles/dlib.dir/threads/threads_kernel_shared.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/threads/threads_kernel_shared.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_36)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/threads/threads_kernel_shared.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/threads/threads_kernel_shared.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/threads/threads_kernel_shared.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/threads/threads_kernel_shared.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/threads/threads_kernel_shared.cpp
 
 dlib_build/CMakeFiles/dlib.dir/threads/threads_kernel_shared.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/threads/threads_kernel_shared.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/threads/threads_kernel_shared.cpp > CMakeFiles/dlib.dir/threads/threads_kernel_shared.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/threads/threads_kernel_shared.cpp > CMakeFiles/dlib.dir/threads/threads_kernel_shared.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/threads/threads_kernel_shared.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/threads/threads_kernel_shared.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/threads/threads_kernel_shared.cpp -o CMakeFiles/dlib.dir/threads/threads_kernel_shared.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/threads/threads_kernel_shared.cpp -o CMakeFiles/dlib.dir/threads/threads_kernel_shared.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/threads/threads_kernel_shared.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/threads/threads_kernel_shared.cpp.o.requires
@@ -884,15 +884,15 @@ dlib_build/CMakeFiles/dlib.dir/threads/thread_pool_extension.cpp.o: dlib_build/C
 dlib_build/CMakeFiles/dlib.dir/threads/thread_pool_extension.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/threads/thread_pool_extension.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_37)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/threads/thread_pool_extension.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/threads/thread_pool_extension.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/threads/thread_pool_extension.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/threads/thread_pool_extension.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/threads/thread_pool_extension.cpp
 
 dlib_build/CMakeFiles/dlib.dir/threads/thread_pool_extension.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/threads/thread_pool_extension.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/threads/thread_pool_extension.cpp > CMakeFiles/dlib.dir/threads/thread_pool_extension.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/threads/thread_pool_extension.cpp > CMakeFiles/dlib.dir/threads/thread_pool_extension.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/threads/thread_pool_extension.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/threads/thread_pool_extension.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/threads/thread_pool_extension.cpp -o CMakeFiles/dlib.dir/threads/thread_pool_extension.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/threads/thread_pool_extension.cpp -o CMakeFiles/dlib.dir/threads/thread_pool_extension.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/threads/thread_pool_extension.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/threads/thread_pool_extension.cpp.o.requires
@@ -907,15 +907,15 @@ dlib_build/CMakeFiles/dlib.dir/threads/async.cpp.o: dlib_build/CMakeFiles/dlib.d
 dlib_build/CMakeFiles/dlib.dir/threads/async.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/threads/async.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_38)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/threads/async.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/threads/async.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/threads/async.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/threads/async.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/threads/async.cpp
 
 dlib_build/CMakeFiles/dlib.dir/threads/async.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/threads/async.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/threads/async.cpp > CMakeFiles/dlib.dir/threads/async.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/threads/async.cpp > CMakeFiles/dlib.dir/threads/async.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/threads/async.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/threads/async.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/threads/async.cpp -o CMakeFiles/dlib.dir/threads/async.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/threads/async.cpp -o CMakeFiles/dlib.dir/threads/async.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/threads/async.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/threads/async.cpp.o.requires
@@ -930,15 +930,15 @@ dlib_build/CMakeFiles/dlib.dir/timer/timer.cpp.o: dlib_build/CMakeFiles/dlib.dir
 dlib_build/CMakeFiles/dlib.dir/timer/timer.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/timer/timer.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_39)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/timer/timer.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/timer/timer.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/timer/timer.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/timer/timer.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/timer/timer.cpp
 
 dlib_build/CMakeFiles/dlib.dir/timer/timer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/timer/timer.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/timer/timer.cpp > CMakeFiles/dlib.dir/timer/timer.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/timer/timer.cpp > CMakeFiles/dlib.dir/timer/timer.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/timer/timer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/timer/timer.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/timer/timer.cpp -o CMakeFiles/dlib.dir/timer/timer.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/timer/timer.cpp -o CMakeFiles/dlib.dir/timer/timer.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/timer/timer.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/timer/timer.cpp.o.requires
@@ -953,15 +953,15 @@ dlib_build/CMakeFiles/dlib.dir/stack_trace.cpp.o: dlib_build/CMakeFiles/dlib.dir
 dlib_build/CMakeFiles/dlib.dir/stack_trace.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/stack_trace.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_40)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/stack_trace.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/stack_trace.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/stack_trace.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/stack_trace.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/stack_trace.cpp
 
 dlib_build/CMakeFiles/dlib.dir/stack_trace.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/stack_trace.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/stack_trace.cpp > CMakeFiles/dlib.dir/stack_trace.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/stack_trace.cpp > CMakeFiles/dlib.dir/stack_trace.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/stack_trace.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/stack_trace.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/stack_trace.cpp -o CMakeFiles/dlib.dir/stack_trace.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/stack_trace.cpp -o CMakeFiles/dlib.dir/stack_trace.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/stack_trace.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/stack_trace.cpp.o.requires
@@ -976,15 +976,15 @@ dlib_build/CMakeFiles/dlib.dir/cuda/cpu_dlib.cpp.o: dlib_build/CMakeFiles/dlib.d
 dlib_build/CMakeFiles/dlib.dir/cuda/cpu_dlib.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/cuda/cpu_dlib.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_41)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/cuda/cpu_dlib.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/cuda/cpu_dlib.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/cuda/cpu_dlib.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/cuda/cpu_dlib.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/cuda/cpu_dlib.cpp
 
 dlib_build/CMakeFiles/dlib.dir/cuda/cpu_dlib.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/cuda/cpu_dlib.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/cuda/cpu_dlib.cpp > CMakeFiles/dlib.dir/cuda/cpu_dlib.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/cuda/cpu_dlib.cpp > CMakeFiles/dlib.dir/cuda/cpu_dlib.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/cuda/cpu_dlib.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/cuda/cpu_dlib.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/cuda/cpu_dlib.cpp -o CMakeFiles/dlib.dir/cuda/cpu_dlib.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/cuda/cpu_dlib.cpp -o CMakeFiles/dlib.dir/cuda/cpu_dlib.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/cuda/cpu_dlib.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/cuda/cpu_dlib.cpp.o.requires
@@ -999,15 +999,15 @@ dlib_build/CMakeFiles/dlib.dir/cuda/tensor_tools.cpp.o: dlib_build/CMakeFiles/dl
 dlib_build/CMakeFiles/dlib.dir/cuda/tensor_tools.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/cuda/tensor_tools.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_42)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/cuda/tensor_tools.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/cuda/tensor_tools.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/cuda/tensor_tools.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/cuda/tensor_tools.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/cuda/tensor_tools.cpp
 
 dlib_build/CMakeFiles/dlib.dir/cuda/tensor_tools.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/cuda/tensor_tools.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/cuda/tensor_tools.cpp > CMakeFiles/dlib.dir/cuda/tensor_tools.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/cuda/tensor_tools.cpp > CMakeFiles/dlib.dir/cuda/tensor_tools.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/cuda/tensor_tools.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/cuda/tensor_tools.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/cuda/tensor_tools.cpp -o CMakeFiles/dlib.dir/cuda/tensor_tools.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/cuda/tensor_tools.cpp -o CMakeFiles/dlib.dir/cuda/tensor_tools.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/cuda/tensor_tools.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/cuda/tensor_tools.cpp.o.requires
@@ -1022,15 +1022,15 @@ dlib_build/CMakeFiles/dlib.dir/data_io/image_dataset_metadata.cpp.o: dlib_build/
 dlib_build/CMakeFiles/dlib.dir/data_io/image_dataset_metadata.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/data_io/image_dataset_metadata.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_43)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/data_io/image_dataset_metadata.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/data_io/image_dataset_metadata.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/data_io/image_dataset_metadata.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/data_io/image_dataset_metadata.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/data_io/image_dataset_metadata.cpp
 
 dlib_build/CMakeFiles/dlib.dir/data_io/image_dataset_metadata.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/data_io/image_dataset_metadata.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/data_io/image_dataset_metadata.cpp > CMakeFiles/dlib.dir/data_io/image_dataset_metadata.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/data_io/image_dataset_metadata.cpp > CMakeFiles/dlib.dir/data_io/image_dataset_metadata.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/data_io/image_dataset_metadata.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/data_io/image_dataset_metadata.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/data_io/image_dataset_metadata.cpp -o CMakeFiles/dlib.dir/data_io/image_dataset_metadata.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/data_io/image_dataset_metadata.cpp -o CMakeFiles/dlib.dir/data_io/image_dataset_metadata.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/data_io/image_dataset_metadata.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/data_io/image_dataset_metadata.cpp.o.requires
@@ -1045,15 +1045,15 @@ dlib_build/CMakeFiles/dlib.dir/data_io/mnist.cpp.o: dlib_build/CMakeFiles/dlib.d
 dlib_build/CMakeFiles/dlib.dir/data_io/mnist.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/data_io/mnist.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_44)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/data_io/mnist.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/data_io/mnist.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/data_io/mnist.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/data_io/mnist.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/data_io/mnist.cpp
 
 dlib_build/CMakeFiles/dlib.dir/data_io/mnist.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/data_io/mnist.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/data_io/mnist.cpp > CMakeFiles/dlib.dir/data_io/mnist.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/data_io/mnist.cpp > CMakeFiles/dlib.dir/data_io/mnist.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/data_io/mnist.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/data_io/mnist.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/data_io/mnist.cpp -o CMakeFiles/dlib.dir/data_io/mnist.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/data_io/mnist.cpp -o CMakeFiles/dlib.dir/data_io/mnist.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/data_io/mnist.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/data_io/mnist.cpp.o.requires
@@ -1068,15 +1068,15 @@ dlib_build/CMakeFiles/dlib.dir/data_io/cifar.cpp.o: dlib_build/CMakeFiles/dlib.d
 dlib_build/CMakeFiles/dlib.dir/data_io/cifar.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/data_io/cifar.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_45)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/data_io/cifar.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/data_io/cifar.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/data_io/cifar.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/data_io/cifar.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/data_io/cifar.cpp
 
 dlib_build/CMakeFiles/dlib.dir/data_io/cifar.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/data_io/cifar.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/data_io/cifar.cpp > CMakeFiles/dlib.dir/data_io/cifar.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/data_io/cifar.cpp > CMakeFiles/dlib.dir/data_io/cifar.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/data_io/cifar.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/data_io/cifar.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/data_io/cifar.cpp -o CMakeFiles/dlib.dir/data_io/cifar.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/data_io/cifar.cpp -o CMakeFiles/dlib.dir/data_io/cifar.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/data_io/cifar.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/data_io/cifar.cpp.o.requires
@@ -1091,15 +1091,15 @@ dlib_build/CMakeFiles/dlib.dir/global_optimization/global_function_search.cpp.o:
 dlib_build/CMakeFiles/dlib.dir/global_optimization/global_function_search.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/global_optimization/global_function_search.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_46)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/global_optimization/global_function_search.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/global_optimization/global_function_search.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/global_optimization/global_function_search.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/global_optimization/global_function_search.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/global_optimization/global_function_search.cpp
 
 dlib_build/CMakeFiles/dlib.dir/global_optimization/global_function_search.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/global_optimization/global_function_search.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/global_optimization/global_function_search.cpp > CMakeFiles/dlib.dir/global_optimization/global_function_search.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/global_optimization/global_function_search.cpp > CMakeFiles/dlib.dir/global_optimization/global_function_search.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/global_optimization/global_function_search.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/global_optimization/global_function_search.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/global_optimization/global_function_search.cpp -o CMakeFiles/dlib.dir/global_optimization/global_function_search.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/global_optimization/global_function_search.cpp -o CMakeFiles/dlib.dir/global_optimization/global_function_search.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/global_optimization/global_function_search.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/global_optimization/global_function_search.cpp.o.requires
@@ -1114,15 +1114,15 @@ dlib_build/CMakeFiles/dlib.dir/filtering/kalman_filter.cpp.o: dlib_build/CMakeFi
 dlib_build/CMakeFiles/dlib.dir/filtering/kalman_filter.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/filtering/kalman_filter.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_47)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/filtering/kalman_filter.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/filtering/kalman_filter.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/filtering/kalman_filter.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/filtering/kalman_filter.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/filtering/kalman_filter.cpp
 
 dlib_build/CMakeFiles/dlib.dir/filtering/kalman_filter.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/filtering/kalman_filter.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/filtering/kalman_filter.cpp > CMakeFiles/dlib.dir/filtering/kalman_filter.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/filtering/kalman_filter.cpp > CMakeFiles/dlib.dir/filtering/kalman_filter.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/filtering/kalman_filter.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/filtering/kalman_filter.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/filtering/kalman_filter.cpp -o CMakeFiles/dlib.dir/filtering/kalman_filter.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/filtering/kalman_filter.cpp -o CMakeFiles/dlib.dir/filtering/kalman_filter.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/filtering/kalman_filter.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/filtering/kalman_filter.cpp.o.requires
@@ -1137,15 +1137,15 @@ dlib_build/CMakeFiles/dlib.dir/svm/auto.cpp.o: dlib_build/CMakeFiles/dlib.dir/fl
 dlib_build/CMakeFiles/dlib.dir/svm/auto.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/svm/auto.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_48)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/svm/auto.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/svm/auto.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/svm/auto.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/svm/auto.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/svm/auto.cpp
 
 dlib_build/CMakeFiles/dlib.dir/svm/auto.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/svm/auto.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/svm/auto.cpp > CMakeFiles/dlib.dir/svm/auto.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/svm/auto.cpp > CMakeFiles/dlib.dir/svm/auto.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/svm/auto.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/svm/auto.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/svm/auto.cpp -o CMakeFiles/dlib.dir/svm/auto.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/svm/auto.cpp -o CMakeFiles/dlib.dir/svm/auto.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/svm/auto.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/svm/auto.cpp.o.requires
@@ -1160,15 +1160,15 @@ dlib_build/CMakeFiles/dlib.dir/gui_widgets/widgets.cpp.o: dlib_build/CMakeFiles/
 dlib_build/CMakeFiles/dlib.dir/gui_widgets/widgets.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/gui_widgets/widgets.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_49)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/gui_widgets/widgets.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/gui_widgets/widgets.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/gui_widgets/widgets.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/gui_widgets/widgets.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/gui_widgets/widgets.cpp
 
 dlib_build/CMakeFiles/dlib.dir/gui_widgets/widgets.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/gui_widgets/widgets.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/gui_widgets/widgets.cpp > CMakeFiles/dlib.dir/gui_widgets/widgets.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/gui_widgets/widgets.cpp > CMakeFiles/dlib.dir/gui_widgets/widgets.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/gui_widgets/widgets.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/gui_widgets/widgets.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/gui_widgets/widgets.cpp -o CMakeFiles/dlib.dir/gui_widgets/widgets.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/gui_widgets/widgets.cpp -o CMakeFiles/dlib.dir/gui_widgets/widgets.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/gui_widgets/widgets.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/gui_widgets/widgets.cpp.o.requires
@@ -1183,15 +1183,15 @@ dlib_build/CMakeFiles/dlib.dir/gui_widgets/drawable.cpp.o: dlib_build/CMakeFiles
 dlib_build/CMakeFiles/dlib.dir/gui_widgets/drawable.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/gui_widgets/drawable.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_50)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/gui_widgets/drawable.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/gui_widgets/drawable.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/gui_widgets/drawable.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/gui_widgets/drawable.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/gui_widgets/drawable.cpp
 
 dlib_build/CMakeFiles/dlib.dir/gui_widgets/drawable.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/gui_widgets/drawable.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/gui_widgets/drawable.cpp > CMakeFiles/dlib.dir/gui_widgets/drawable.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/gui_widgets/drawable.cpp > CMakeFiles/dlib.dir/gui_widgets/drawable.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/gui_widgets/drawable.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/gui_widgets/drawable.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/gui_widgets/drawable.cpp -o CMakeFiles/dlib.dir/gui_widgets/drawable.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/gui_widgets/drawable.cpp -o CMakeFiles/dlib.dir/gui_widgets/drawable.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/gui_widgets/drawable.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/gui_widgets/drawable.cpp.o.requires
@@ -1206,15 +1206,15 @@ dlib_build/CMakeFiles/dlib.dir/gui_widgets/canvas_drawing.cpp.o: dlib_build/CMak
 dlib_build/CMakeFiles/dlib.dir/gui_widgets/canvas_drawing.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/gui_widgets/canvas_drawing.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_51)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/gui_widgets/canvas_drawing.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/gui_widgets/canvas_drawing.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/gui_widgets/canvas_drawing.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/gui_widgets/canvas_drawing.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/gui_widgets/canvas_drawing.cpp
 
 dlib_build/CMakeFiles/dlib.dir/gui_widgets/canvas_drawing.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/gui_widgets/canvas_drawing.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/gui_widgets/canvas_drawing.cpp > CMakeFiles/dlib.dir/gui_widgets/canvas_drawing.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/gui_widgets/canvas_drawing.cpp > CMakeFiles/dlib.dir/gui_widgets/canvas_drawing.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/gui_widgets/canvas_drawing.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/gui_widgets/canvas_drawing.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/gui_widgets/canvas_drawing.cpp -o CMakeFiles/dlib.dir/gui_widgets/canvas_drawing.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/gui_widgets/canvas_drawing.cpp -o CMakeFiles/dlib.dir/gui_widgets/canvas_drawing.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/gui_widgets/canvas_drawing.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/gui_widgets/canvas_drawing.cpp.o.requires
@@ -1229,15 +1229,15 @@ dlib_build/CMakeFiles/dlib.dir/gui_widgets/style.cpp.o: dlib_build/CMakeFiles/dl
 dlib_build/CMakeFiles/dlib.dir/gui_widgets/style.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/gui_widgets/style.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_52)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/gui_widgets/style.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/gui_widgets/style.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/gui_widgets/style.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/gui_widgets/style.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/gui_widgets/style.cpp
 
 dlib_build/CMakeFiles/dlib.dir/gui_widgets/style.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/gui_widgets/style.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/gui_widgets/style.cpp > CMakeFiles/dlib.dir/gui_widgets/style.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/gui_widgets/style.cpp > CMakeFiles/dlib.dir/gui_widgets/style.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/gui_widgets/style.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/gui_widgets/style.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/gui_widgets/style.cpp -o CMakeFiles/dlib.dir/gui_widgets/style.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/gui_widgets/style.cpp -o CMakeFiles/dlib.dir/gui_widgets/style.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/gui_widgets/style.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/gui_widgets/style.cpp.o.requires
@@ -1252,15 +1252,15 @@ dlib_build/CMakeFiles/dlib.dir/gui_widgets/base_widgets.cpp.o: dlib_build/CMakeF
 dlib_build/CMakeFiles/dlib.dir/gui_widgets/base_widgets.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/gui_widgets/base_widgets.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_53)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/gui_widgets/base_widgets.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/gui_widgets/base_widgets.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/gui_widgets/base_widgets.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/gui_widgets/base_widgets.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/gui_widgets/base_widgets.cpp
 
 dlib_build/CMakeFiles/dlib.dir/gui_widgets/base_widgets.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/gui_widgets/base_widgets.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/gui_widgets/base_widgets.cpp > CMakeFiles/dlib.dir/gui_widgets/base_widgets.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/gui_widgets/base_widgets.cpp > CMakeFiles/dlib.dir/gui_widgets/base_widgets.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/gui_widgets/base_widgets.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/gui_widgets/base_widgets.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/gui_widgets/base_widgets.cpp -o CMakeFiles/dlib.dir/gui_widgets/base_widgets.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/gui_widgets/base_widgets.cpp -o CMakeFiles/dlib.dir/gui_widgets/base_widgets.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/gui_widgets/base_widgets.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/gui_widgets/base_widgets.cpp.o.requires
@@ -1275,15 +1275,15 @@ dlib_build/CMakeFiles/dlib.dir/gui_core/gui_core_kernel_1.cpp.o: dlib_build/CMak
 dlib_build/CMakeFiles/dlib.dir/gui_core/gui_core_kernel_1.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/gui_core/gui_core_kernel_1.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_54)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/gui_core/gui_core_kernel_1.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/gui_core/gui_core_kernel_1.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/gui_core/gui_core_kernel_1.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/gui_core/gui_core_kernel_1.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/gui_core/gui_core_kernel_1.cpp
 
 dlib_build/CMakeFiles/dlib.dir/gui_core/gui_core_kernel_1.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/gui_core/gui_core_kernel_1.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/gui_core/gui_core_kernel_1.cpp > CMakeFiles/dlib.dir/gui_core/gui_core_kernel_1.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/gui_core/gui_core_kernel_1.cpp > CMakeFiles/dlib.dir/gui_core/gui_core_kernel_1.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/gui_core/gui_core_kernel_1.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/gui_core/gui_core_kernel_1.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/gui_core/gui_core_kernel_1.cpp -o CMakeFiles/dlib.dir/gui_core/gui_core_kernel_1.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/gui_core/gui_core_kernel_1.cpp -o CMakeFiles/dlib.dir/gui_core/gui_core_kernel_1.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/gui_core/gui_core_kernel_1.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/gui_core/gui_core_kernel_1.cpp.o.requires
@@ -1298,15 +1298,15 @@ dlib_build/CMakeFiles/dlib.dir/gui_core/gui_core_kernel_2.cpp.o: dlib_build/CMak
 dlib_build/CMakeFiles/dlib.dir/gui_core/gui_core_kernel_2.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/gui_core/gui_core_kernel_2.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_55)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/gui_core/gui_core_kernel_2.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/gui_core/gui_core_kernel_2.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/gui_core/gui_core_kernel_2.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/gui_core/gui_core_kernel_2.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/gui_core/gui_core_kernel_2.cpp
 
 dlib_build/CMakeFiles/dlib.dir/gui_core/gui_core_kernel_2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/gui_core/gui_core_kernel_2.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/gui_core/gui_core_kernel_2.cpp > CMakeFiles/dlib.dir/gui_core/gui_core_kernel_2.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/gui_core/gui_core_kernel_2.cpp > CMakeFiles/dlib.dir/gui_core/gui_core_kernel_2.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/gui_core/gui_core_kernel_2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/gui_core/gui_core_kernel_2.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/gui_core/gui_core_kernel_2.cpp -o CMakeFiles/dlib.dir/gui_core/gui_core_kernel_2.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/gui_core/gui_core_kernel_2.cpp -o CMakeFiles/dlib.dir/gui_core/gui_core_kernel_2.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/gui_core/gui_core_kernel_2.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/gui_core/gui_core_kernel_2.cpp.o.requires
@@ -1321,15 +1321,15 @@ dlib_build/CMakeFiles/dlib.dir/image_loader/png_loader.cpp.o: dlib_build/CMakeFi
 dlib_build/CMakeFiles/dlib.dir/image_loader/png_loader.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/image_loader/png_loader.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_56)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/image_loader/png_loader.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/image_loader/png_loader.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/image_loader/png_loader.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/image_loader/png_loader.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/image_loader/png_loader.cpp
 
 dlib_build/CMakeFiles/dlib.dir/image_loader/png_loader.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/image_loader/png_loader.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/image_loader/png_loader.cpp > CMakeFiles/dlib.dir/image_loader/png_loader.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/image_loader/png_loader.cpp > CMakeFiles/dlib.dir/image_loader/png_loader.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/image_loader/png_loader.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/image_loader/png_loader.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/image_loader/png_loader.cpp -o CMakeFiles/dlib.dir/image_loader/png_loader.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/image_loader/png_loader.cpp -o CMakeFiles/dlib.dir/image_loader/png_loader.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/image_loader/png_loader.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/image_loader/png_loader.cpp.o.requires
@@ -1344,15 +1344,15 @@ dlib_build/CMakeFiles/dlib.dir/image_saver/save_png.cpp.o: dlib_build/CMakeFiles
 dlib_build/CMakeFiles/dlib.dir/image_saver/save_png.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/image_saver/save_png.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_57)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/image_saver/save_png.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/image_saver/save_png.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/image_saver/save_png.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/image_saver/save_png.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/image_saver/save_png.cpp
 
 dlib_build/CMakeFiles/dlib.dir/image_saver/save_png.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/image_saver/save_png.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/image_saver/save_png.cpp > CMakeFiles/dlib.dir/image_saver/save_png.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/image_saver/save_png.cpp > CMakeFiles/dlib.dir/image_saver/save_png.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/image_saver/save_png.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/image_saver/save_png.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/image_saver/save_png.cpp -o CMakeFiles/dlib.dir/image_saver/save_png.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/image_saver/save_png.cpp -o CMakeFiles/dlib.dir/image_saver/save_png.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/image_saver/save_png.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/image_saver/save_png.cpp.o.requires
@@ -1367,15 +1367,15 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jaricom.c.o: dlib_build/CMakeFil
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jaricom.c.o: /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jaricom.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_58)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jaricom.c.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jaricom.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jaricom.c
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jaricom.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jaricom.c
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jaricom.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/dlib.dir/external/libjpeg/jaricom.c.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jaricom.c > CMakeFiles/dlib.dir/external/libjpeg/jaricom.c.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jaricom.c > CMakeFiles/dlib.dir/external/libjpeg/jaricom.c.i
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jaricom.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/dlib.dir/external/libjpeg/jaricom.c.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jaricom.c -o CMakeFiles/dlib.dir/external/libjpeg/jaricom.c.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jaricom.c -o CMakeFiles/dlib.dir/external/libjpeg/jaricom.c.s
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jaricom.c.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jaricom.c.o.requires
@@ -1390,15 +1390,15 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcapimin.c.o: dlib_build/CMakeFi
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcapimin.c.o: /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcapimin.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_59)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcapimin.c.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jcapimin.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcapimin.c
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jcapimin.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcapimin.c
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcapimin.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/dlib.dir/external/libjpeg/jcapimin.c.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcapimin.c > CMakeFiles/dlib.dir/external/libjpeg/jcapimin.c.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcapimin.c > CMakeFiles/dlib.dir/external/libjpeg/jcapimin.c.i
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcapimin.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/dlib.dir/external/libjpeg/jcapimin.c.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcapimin.c -o CMakeFiles/dlib.dir/external/libjpeg/jcapimin.c.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcapimin.c -o CMakeFiles/dlib.dir/external/libjpeg/jcapimin.c.s
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcapimin.c.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcapimin.c.o.requires
@@ -1413,15 +1413,15 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcapistd.c.o: dlib_build/CMakeFi
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcapistd.c.o: /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcapistd.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_60)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcapistd.c.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jcapistd.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcapistd.c
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jcapistd.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcapistd.c
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcapistd.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/dlib.dir/external/libjpeg/jcapistd.c.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcapistd.c > CMakeFiles/dlib.dir/external/libjpeg/jcapistd.c.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcapistd.c > CMakeFiles/dlib.dir/external/libjpeg/jcapistd.c.i
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcapistd.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/dlib.dir/external/libjpeg/jcapistd.c.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcapistd.c -o CMakeFiles/dlib.dir/external/libjpeg/jcapistd.c.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcapistd.c -o CMakeFiles/dlib.dir/external/libjpeg/jcapistd.c.s
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcapistd.c.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcapistd.c.o.requires
@@ -1436,15 +1436,15 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcarith.c.o: dlib_build/CMakeFil
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcarith.c.o: /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcarith.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_61)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcarith.c.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jcarith.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcarith.c
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jcarith.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcarith.c
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcarith.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/dlib.dir/external/libjpeg/jcarith.c.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcarith.c > CMakeFiles/dlib.dir/external/libjpeg/jcarith.c.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcarith.c > CMakeFiles/dlib.dir/external/libjpeg/jcarith.c.i
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcarith.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/dlib.dir/external/libjpeg/jcarith.c.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcarith.c -o CMakeFiles/dlib.dir/external/libjpeg/jcarith.c.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcarith.c -o CMakeFiles/dlib.dir/external/libjpeg/jcarith.c.s
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcarith.c.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcarith.c.o.requires
@@ -1459,15 +1459,15 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jccoefct.c.o: dlib_build/CMakeFi
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jccoefct.c.o: /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jccoefct.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_62)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jccoefct.c.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jccoefct.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jccoefct.c
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jccoefct.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jccoefct.c
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jccoefct.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/dlib.dir/external/libjpeg/jccoefct.c.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jccoefct.c > CMakeFiles/dlib.dir/external/libjpeg/jccoefct.c.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jccoefct.c > CMakeFiles/dlib.dir/external/libjpeg/jccoefct.c.i
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jccoefct.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/dlib.dir/external/libjpeg/jccoefct.c.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jccoefct.c -o CMakeFiles/dlib.dir/external/libjpeg/jccoefct.c.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jccoefct.c -o CMakeFiles/dlib.dir/external/libjpeg/jccoefct.c.s
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jccoefct.c.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jccoefct.c.o.requires
@@ -1482,15 +1482,15 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jccolor.c.o: dlib_build/CMakeFil
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jccolor.c.o: /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jccolor.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_63)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jccolor.c.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jccolor.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jccolor.c
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jccolor.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jccolor.c
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jccolor.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/dlib.dir/external/libjpeg/jccolor.c.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jccolor.c > CMakeFiles/dlib.dir/external/libjpeg/jccolor.c.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jccolor.c > CMakeFiles/dlib.dir/external/libjpeg/jccolor.c.i
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jccolor.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/dlib.dir/external/libjpeg/jccolor.c.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jccolor.c -o CMakeFiles/dlib.dir/external/libjpeg/jccolor.c.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jccolor.c -o CMakeFiles/dlib.dir/external/libjpeg/jccolor.c.s
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jccolor.c.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jccolor.c.o.requires
@@ -1505,15 +1505,15 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcdctmgr.c.o: dlib_build/CMakeFi
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcdctmgr.c.o: /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcdctmgr.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_64)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcdctmgr.c.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jcdctmgr.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcdctmgr.c
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jcdctmgr.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcdctmgr.c
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcdctmgr.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/dlib.dir/external/libjpeg/jcdctmgr.c.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcdctmgr.c > CMakeFiles/dlib.dir/external/libjpeg/jcdctmgr.c.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcdctmgr.c > CMakeFiles/dlib.dir/external/libjpeg/jcdctmgr.c.i
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcdctmgr.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/dlib.dir/external/libjpeg/jcdctmgr.c.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcdctmgr.c -o CMakeFiles/dlib.dir/external/libjpeg/jcdctmgr.c.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcdctmgr.c -o CMakeFiles/dlib.dir/external/libjpeg/jcdctmgr.c.s
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcdctmgr.c.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcdctmgr.c.o.requires
@@ -1528,15 +1528,15 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jchuff.c.o: dlib_build/CMakeFile
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jchuff.c.o: /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jchuff.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_65)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jchuff.c.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jchuff.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jchuff.c
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jchuff.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jchuff.c
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jchuff.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/dlib.dir/external/libjpeg/jchuff.c.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jchuff.c > CMakeFiles/dlib.dir/external/libjpeg/jchuff.c.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jchuff.c > CMakeFiles/dlib.dir/external/libjpeg/jchuff.c.i
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jchuff.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/dlib.dir/external/libjpeg/jchuff.c.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jchuff.c -o CMakeFiles/dlib.dir/external/libjpeg/jchuff.c.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jchuff.c -o CMakeFiles/dlib.dir/external/libjpeg/jchuff.c.s
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jchuff.c.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jchuff.c.o.requires
@@ -1551,15 +1551,15 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcinit.c.o: dlib_build/CMakeFile
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcinit.c.o: /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcinit.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_66)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcinit.c.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jcinit.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcinit.c
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jcinit.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcinit.c
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcinit.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/dlib.dir/external/libjpeg/jcinit.c.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcinit.c > CMakeFiles/dlib.dir/external/libjpeg/jcinit.c.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcinit.c > CMakeFiles/dlib.dir/external/libjpeg/jcinit.c.i
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcinit.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/dlib.dir/external/libjpeg/jcinit.c.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcinit.c -o CMakeFiles/dlib.dir/external/libjpeg/jcinit.c.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcinit.c -o CMakeFiles/dlib.dir/external/libjpeg/jcinit.c.s
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcinit.c.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcinit.c.o.requires
@@ -1574,15 +1574,15 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcmainct.c.o: dlib_build/CMakeFi
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcmainct.c.o: /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcmainct.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_67)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcmainct.c.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jcmainct.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcmainct.c
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jcmainct.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcmainct.c
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcmainct.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/dlib.dir/external/libjpeg/jcmainct.c.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcmainct.c > CMakeFiles/dlib.dir/external/libjpeg/jcmainct.c.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcmainct.c > CMakeFiles/dlib.dir/external/libjpeg/jcmainct.c.i
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcmainct.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/dlib.dir/external/libjpeg/jcmainct.c.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcmainct.c -o CMakeFiles/dlib.dir/external/libjpeg/jcmainct.c.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcmainct.c -o CMakeFiles/dlib.dir/external/libjpeg/jcmainct.c.s
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcmainct.c.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcmainct.c.o.requires
@@ -1597,15 +1597,15 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcmarker.c.o: dlib_build/CMakeFi
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcmarker.c.o: /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcmarker.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_68)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcmarker.c.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jcmarker.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcmarker.c
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jcmarker.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcmarker.c
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcmarker.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/dlib.dir/external/libjpeg/jcmarker.c.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcmarker.c > CMakeFiles/dlib.dir/external/libjpeg/jcmarker.c.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcmarker.c > CMakeFiles/dlib.dir/external/libjpeg/jcmarker.c.i
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcmarker.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/dlib.dir/external/libjpeg/jcmarker.c.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcmarker.c -o CMakeFiles/dlib.dir/external/libjpeg/jcmarker.c.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcmarker.c -o CMakeFiles/dlib.dir/external/libjpeg/jcmarker.c.s
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcmarker.c.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcmarker.c.o.requires
@@ -1620,15 +1620,15 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcmaster.c.o: dlib_build/CMakeFi
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcmaster.c.o: /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcmaster.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_69)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcmaster.c.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jcmaster.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcmaster.c
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jcmaster.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcmaster.c
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcmaster.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/dlib.dir/external/libjpeg/jcmaster.c.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcmaster.c > CMakeFiles/dlib.dir/external/libjpeg/jcmaster.c.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcmaster.c > CMakeFiles/dlib.dir/external/libjpeg/jcmaster.c.i
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcmaster.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/dlib.dir/external/libjpeg/jcmaster.c.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcmaster.c -o CMakeFiles/dlib.dir/external/libjpeg/jcmaster.c.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcmaster.c -o CMakeFiles/dlib.dir/external/libjpeg/jcmaster.c.s
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcmaster.c.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcmaster.c.o.requires
@@ -1643,15 +1643,15 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcomapi.c.o: dlib_build/CMakeFil
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcomapi.c.o: /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcomapi.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_70)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcomapi.c.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jcomapi.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcomapi.c
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jcomapi.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcomapi.c
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcomapi.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/dlib.dir/external/libjpeg/jcomapi.c.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcomapi.c > CMakeFiles/dlib.dir/external/libjpeg/jcomapi.c.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcomapi.c > CMakeFiles/dlib.dir/external/libjpeg/jcomapi.c.i
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcomapi.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/dlib.dir/external/libjpeg/jcomapi.c.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcomapi.c -o CMakeFiles/dlib.dir/external/libjpeg/jcomapi.c.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcomapi.c -o CMakeFiles/dlib.dir/external/libjpeg/jcomapi.c.s
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcomapi.c.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcomapi.c.o.requires
@@ -1666,15 +1666,15 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcparam.c.o: dlib_build/CMakeFil
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcparam.c.o: /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcparam.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_71)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcparam.c.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jcparam.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcparam.c
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jcparam.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcparam.c
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcparam.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/dlib.dir/external/libjpeg/jcparam.c.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcparam.c > CMakeFiles/dlib.dir/external/libjpeg/jcparam.c.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcparam.c > CMakeFiles/dlib.dir/external/libjpeg/jcparam.c.i
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcparam.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/dlib.dir/external/libjpeg/jcparam.c.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcparam.c -o CMakeFiles/dlib.dir/external/libjpeg/jcparam.c.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcparam.c -o CMakeFiles/dlib.dir/external/libjpeg/jcparam.c.s
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcparam.c.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcparam.c.o.requires
@@ -1689,15 +1689,15 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcprepct.c.o: dlib_build/CMakeFi
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcprepct.c.o: /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcprepct.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_72)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcprepct.c.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jcprepct.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcprepct.c
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jcprepct.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcprepct.c
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcprepct.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/dlib.dir/external/libjpeg/jcprepct.c.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcprepct.c > CMakeFiles/dlib.dir/external/libjpeg/jcprepct.c.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcprepct.c > CMakeFiles/dlib.dir/external/libjpeg/jcprepct.c.i
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcprepct.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/dlib.dir/external/libjpeg/jcprepct.c.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcprepct.c -o CMakeFiles/dlib.dir/external/libjpeg/jcprepct.c.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcprepct.c -o CMakeFiles/dlib.dir/external/libjpeg/jcprepct.c.s
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcprepct.c.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcprepct.c.o.requires
@@ -1712,15 +1712,15 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcsample.c.o: dlib_build/CMakeFi
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcsample.c.o: /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcsample.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_73)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcsample.c.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jcsample.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcsample.c
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jcsample.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcsample.c
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcsample.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/dlib.dir/external/libjpeg/jcsample.c.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcsample.c > CMakeFiles/dlib.dir/external/libjpeg/jcsample.c.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcsample.c > CMakeFiles/dlib.dir/external/libjpeg/jcsample.c.i
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcsample.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/dlib.dir/external/libjpeg/jcsample.c.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcsample.c -o CMakeFiles/dlib.dir/external/libjpeg/jcsample.c.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jcsample.c -o CMakeFiles/dlib.dir/external/libjpeg/jcsample.c.s
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcsample.c.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcsample.c.o.requires
@@ -1735,15 +1735,15 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdapimin.c.o: dlib_build/CMakeFi
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdapimin.c.o: /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdapimin.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_74)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdapimin.c.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jdapimin.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdapimin.c
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jdapimin.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdapimin.c
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdapimin.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/dlib.dir/external/libjpeg/jdapimin.c.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdapimin.c > CMakeFiles/dlib.dir/external/libjpeg/jdapimin.c.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdapimin.c > CMakeFiles/dlib.dir/external/libjpeg/jdapimin.c.i
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdapimin.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/dlib.dir/external/libjpeg/jdapimin.c.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdapimin.c -o CMakeFiles/dlib.dir/external/libjpeg/jdapimin.c.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdapimin.c -o CMakeFiles/dlib.dir/external/libjpeg/jdapimin.c.s
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdapimin.c.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdapimin.c.o.requires
@@ -1758,15 +1758,15 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdapistd.c.o: dlib_build/CMakeFi
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdapistd.c.o: /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdapistd.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_75)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdapistd.c.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jdapistd.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdapistd.c
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jdapistd.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdapistd.c
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdapistd.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/dlib.dir/external/libjpeg/jdapistd.c.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdapistd.c > CMakeFiles/dlib.dir/external/libjpeg/jdapistd.c.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdapistd.c > CMakeFiles/dlib.dir/external/libjpeg/jdapistd.c.i
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdapistd.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/dlib.dir/external/libjpeg/jdapistd.c.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdapistd.c -o CMakeFiles/dlib.dir/external/libjpeg/jdapistd.c.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdapistd.c -o CMakeFiles/dlib.dir/external/libjpeg/jdapistd.c.s
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdapistd.c.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdapistd.c.o.requires
@@ -1781,15 +1781,15 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdarith.c.o: dlib_build/CMakeFil
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdarith.c.o: /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdarith.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_76)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdarith.c.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jdarith.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdarith.c
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jdarith.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdarith.c
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdarith.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/dlib.dir/external/libjpeg/jdarith.c.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdarith.c > CMakeFiles/dlib.dir/external/libjpeg/jdarith.c.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdarith.c > CMakeFiles/dlib.dir/external/libjpeg/jdarith.c.i
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdarith.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/dlib.dir/external/libjpeg/jdarith.c.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdarith.c -o CMakeFiles/dlib.dir/external/libjpeg/jdarith.c.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdarith.c -o CMakeFiles/dlib.dir/external/libjpeg/jdarith.c.s
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdarith.c.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdarith.c.o.requires
@@ -1804,15 +1804,15 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdatadst.c.o: dlib_build/CMakeFi
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdatadst.c.o: /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdatadst.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_77)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdatadst.c.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jdatadst.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdatadst.c
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jdatadst.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdatadst.c
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdatadst.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/dlib.dir/external/libjpeg/jdatadst.c.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdatadst.c > CMakeFiles/dlib.dir/external/libjpeg/jdatadst.c.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdatadst.c > CMakeFiles/dlib.dir/external/libjpeg/jdatadst.c.i
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdatadst.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/dlib.dir/external/libjpeg/jdatadst.c.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdatadst.c -o CMakeFiles/dlib.dir/external/libjpeg/jdatadst.c.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdatadst.c -o CMakeFiles/dlib.dir/external/libjpeg/jdatadst.c.s
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdatadst.c.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdatadst.c.o.requires
@@ -1827,15 +1827,15 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdatasrc.c.o: dlib_build/CMakeFi
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdatasrc.c.o: /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdatasrc.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_78)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdatasrc.c.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jdatasrc.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdatasrc.c
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jdatasrc.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdatasrc.c
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdatasrc.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/dlib.dir/external/libjpeg/jdatasrc.c.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdatasrc.c > CMakeFiles/dlib.dir/external/libjpeg/jdatasrc.c.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdatasrc.c > CMakeFiles/dlib.dir/external/libjpeg/jdatasrc.c.i
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdatasrc.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/dlib.dir/external/libjpeg/jdatasrc.c.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdatasrc.c -o CMakeFiles/dlib.dir/external/libjpeg/jdatasrc.c.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdatasrc.c -o CMakeFiles/dlib.dir/external/libjpeg/jdatasrc.c.s
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdatasrc.c.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdatasrc.c.o.requires
@@ -1850,15 +1850,15 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdcoefct.c.o: dlib_build/CMakeFi
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdcoefct.c.o: /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdcoefct.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_79)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdcoefct.c.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jdcoefct.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdcoefct.c
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jdcoefct.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdcoefct.c
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdcoefct.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/dlib.dir/external/libjpeg/jdcoefct.c.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdcoefct.c > CMakeFiles/dlib.dir/external/libjpeg/jdcoefct.c.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdcoefct.c > CMakeFiles/dlib.dir/external/libjpeg/jdcoefct.c.i
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdcoefct.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/dlib.dir/external/libjpeg/jdcoefct.c.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdcoefct.c -o CMakeFiles/dlib.dir/external/libjpeg/jdcoefct.c.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdcoefct.c -o CMakeFiles/dlib.dir/external/libjpeg/jdcoefct.c.s
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdcoefct.c.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdcoefct.c.o.requires
@@ -1873,15 +1873,15 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdcolor.c.o: dlib_build/CMakeFil
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdcolor.c.o: /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdcolor.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_80)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdcolor.c.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jdcolor.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdcolor.c
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jdcolor.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdcolor.c
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdcolor.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/dlib.dir/external/libjpeg/jdcolor.c.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdcolor.c > CMakeFiles/dlib.dir/external/libjpeg/jdcolor.c.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdcolor.c > CMakeFiles/dlib.dir/external/libjpeg/jdcolor.c.i
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdcolor.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/dlib.dir/external/libjpeg/jdcolor.c.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdcolor.c -o CMakeFiles/dlib.dir/external/libjpeg/jdcolor.c.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdcolor.c -o CMakeFiles/dlib.dir/external/libjpeg/jdcolor.c.s
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdcolor.c.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdcolor.c.o.requires
@@ -1896,15 +1896,15 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jddctmgr.c.o: dlib_build/CMakeFi
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jddctmgr.c.o: /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jddctmgr.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_81)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jddctmgr.c.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jddctmgr.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jddctmgr.c
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jddctmgr.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jddctmgr.c
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jddctmgr.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/dlib.dir/external/libjpeg/jddctmgr.c.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jddctmgr.c > CMakeFiles/dlib.dir/external/libjpeg/jddctmgr.c.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jddctmgr.c > CMakeFiles/dlib.dir/external/libjpeg/jddctmgr.c.i
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jddctmgr.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/dlib.dir/external/libjpeg/jddctmgr.c.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jddctmgr.c -o CMakeFiles/dlib.dir/external/libjpeg/jddctmgr.c.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jddctmgr.c -o CMakeFiles/dlib.dir/external/libjpeg/jddctmgr.c.s
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jddctmgr.c.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jddctmgr.c.o.requires
@@ -1919,15 +1919,15 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdhuff.c.o: dlib_build/CMakeFile
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdhuff.c.o: /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdhuff.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_82)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdhuff.c.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jdhuff.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdhuff.c
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jdhuff.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdhuff.c
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdhuff.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/dlib.dir/external/libjpeg/jdhuff.c.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdhuff.c > CMakeFiles/dlib.dir/external/libjpeg/jdhuff.c.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdhuff.c > CMakeFiles/dlib.dir/external/libjpeg/jdhuff.c.i
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdhuff.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/dlib.dir/external/libjpeg/jdhuff.c.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdhuff.c -o CMakeFiles/dlib.dir/external/libjpeg/jdhuff.c.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdhuff.c -o CMakeFiles/dlib.dir/external/libjpeg/jdhuff.c.s
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdhuff.c.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdhuff.c.o.requires
@@ -1942,15 +1942,15 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdinput.c.o: dlib_build/CMakeFil
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdinput.c.o: /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdinput.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_83)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdinput.c.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jdinput.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdinput.c
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jdinput.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdinput.c
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdinput.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/dlib.dir/external/libjpeg/jdinput.c.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdinput.c > CMakeFiles/dlib.dir/external/libjpeg/jdinput.c.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdinput.c > CMakeFiles/dlib.dir/external/libjpeg/jdinput.c.i
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdinput.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/dlib.dir/external/libjpeg/jdinput.c.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdinput.c -o CMakeFiles/dlib.dir/external/libjpeg/jdinput.c.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdinput.c -o CMakeFiles/dlib.dir/external/libjpeg/jdinput.c.s
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdinput.c.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdinput.c.o.requires
@@ -1965,15 +1965,15 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdmainct.c.o: dlib_build/CMakeFi
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdmainct.c.o: /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdmainct.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_84)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdmainct.c.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jdmainct.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdmainct.c
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jdmainct.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdmainct.c
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdmainct.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/dlib.dir/external/libjpeg/jdmainct.c.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdmainct.c > CMakeFiles/dlib.dir/external/libjpeg/jdmainct.c.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdmainct.c > CMakeFiles/dlib.dir/external/libjpeg/jdmainct.c.i
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdmainct.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/dlib.dir/external/libjpeg/jdmainct.c.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdmainct.c -o CMakeFiles/dlib.dir/external/libjpeg/jdmainct.c.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdmainct.c -o CMakeFiles/dlib.dir/external/libjpeg/jdmainct.c.s
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdmainct.c.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdmainct.c.o.requires
@@ -1988,15 +1988,15 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdmarker.c.o: dlib_build/CMakeFi
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdmarker.c.o: /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdmarker.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_85)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdmarker.c.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jdmarker.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdmarker.c
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jdmarker.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdmarker.c
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdmarker.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/dlib.dir/external/libjpeg/jdmarker.c.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdmarker.c > CMakeFiles/dlib.dir/external/libjpeg/jdmarker.c.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdmarker.c > CMakeFiles/dlib.dir/external/libjpeg/jdmarker.c.i
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdmarker.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/dlib.dir/external/libjpeg/jdmarker.c.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdmarker.c -o CMakeFiles/dlib.dir/external/libjpeg/jdmarker.c.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdmarker.c -o CMakeFiles/dlib.dir/external/libjpeg/jdmarker.c.s
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdmarker.c.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdmarker.c.o.requires
@@ -2011,15 +2011,15 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdmaster.c.o: dlib_build/CMakeFi
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdmaster.c.o: /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdmaster.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_86)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdmaster.c.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jdmaster.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdmaster.c
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jdmaster.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdmaster.c
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdmaster.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/dlib.dir/external/libjpeg/jdmaster.c.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdmaster.c > CMakeFiles/dlib.dir/external/libjpeg/jdmaster.c.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdmaster.c > CMakeFiles/dlib.dir/external/libjpeg/jdmaster.c.i
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdmaster.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/dlib.dir/external/libjpeg/jdmaster.c.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdmaster.c -o CMakeFiles/dlib.dir/external/libjpeg/jdmaster.c.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdmaster.c -o CMakeFiles/dlib.dir/external/libjpeg/jdmaster.c.s
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdmaster.c.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdmaster.c.o.requires
@@ -2034,15 +2034,15 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdmerge.c.o: dlib_build/CMakeFil
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdmerge.c.o: /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdmerge.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_87)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdmerge.c.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jdmerge.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdmerge.c
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jdmerge.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdmerge.c
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdmerge.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/dlib.dir/external/libjpeg/jdmerge.c.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdmerge.c > CMakeFiles/dlib.dir/external/libjpeg/jdmerge.c.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdmerge.c > CMakeFiles/dlib.dir/external/libjpeg/jdmerge.c.i
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdmerge.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/dlib.dir/external/libjpeg/jdmerge.c.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdmerge.c -o CMakeFiles/dlib.dir/external/libjpeg/jdmerge.c.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdmerge.c -o CMakeFiles/dlib.dir/external/libjpeg/jdmerge.c.s
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdmerge.c.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdmerge.c.o.requires
@@ -2057,15 +2057,15 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdpostct.c.o: dlib_build/CMakeFi
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdpostct.c.o: /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdpostct.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_88)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdpostct.c.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jdpostct.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdpostct.c
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jdpostct.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdpostct.c
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdpostct.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/dlib.dir/external/libjpeg/jdpostct.c.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdpostct.c > CMakeFiles/dlib.dir/external/libjpeg/jdpostct.c.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdpostct.c > CMakeFiles/dlib.dir/external/libjpeg/jdpostct.c.i
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdpostct.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/dlib.dir/external/libjpeg/jdpostct.c.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdpostct.c -o CMakeFiles/dlib.dir/external/libjpeg/jdpostct.c.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdpostct.c -o CMakeFiles/dlib.dir/external/libjpeg/jdpostct.c.s
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdpostct.c.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdpostct.c.o.requires
@@ -2080,15 +2080,15 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdsample.c.o: dlib_build/CMakeFi
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdsample.c.o: /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdsample.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_89)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdsample.c.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jdsample.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdsample.c
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jdsample.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdsample.c
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdsample.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/dlib.dir/external/libjpeg/jdsample.c.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdsample.c > CMakeFiles/dlib.dir/external/libjpeg/jdsample.c.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdsample.c > CMakeFiles/dlib.dir/external/libjpeg/jdsample.c.i
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdsample.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/dlib.dir/external/libjpeg/jdsample.c.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdsample.c -o CMakeFiles/dlib.dir/external/libjpeg/jdsample.c.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jdsample.c -o CMakeFiles/dlib.dir/external/libjpeg/jdsample.c.s
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdsample.c.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdsample.c.o.requires
@@ -2103,15 +2103,15 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jerror.c.o: dlib_build/CMakeFile
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jerror.c.o: /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jerror.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_90)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jerror.c.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jerror.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jerror.c
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jerror.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jerror.c
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jerror.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/dlib.dir/external/libjpeg/jerror.c.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jerror.c > CMakeFiles/dlib.dir/external/libjpeg/jerror.c.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jerror.c > CMakeFiles/dlib.dir/external/libjpeg/jerror.c.i
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jerror.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/dlib.dir/external/libjpeg/jerror.c.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jerror.c -o CMakeFiles/dlib.dir/external/libjpeg/jerror.c.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jerror.c -o CMakeFiles/dlib.dir/external/libjpeg/jerror.c.s
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jerror.c.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jerror.c.o.requires
@@ -2126,15 +2126,15 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jfdctflt.c.o: dlib_build/CMakeFi
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jfdctflt.c.o: /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jfdctflt.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_91)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jfdctflt.c.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jfdctflt.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jfdctflt.c
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jfdctflt.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jfdctflt.c
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jfdctflt.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/dlib.dir/external/libjpeg/jfdctflt.c.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jfdctflt.c > CMakeFiles/dlib.dir/external/libjpeg/jfdctflt.c.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jfdctflt.c > CMakeFiles/dlib.dir/external/libjpeg/jfdctflt.c.i
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jfdctflt.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/dlib.dir/external/libjpeg/jfdctflt.c.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jfdctflt.c -o CMakeFiles/dlib.dir/external/libjpeg/jfdctflt.c.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jfdctflt.c -o CMakeFiles/dlib.dir/external/libjpeg/jfdctflt.c.s
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jfdctflt.c.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jfdctflt.c.o.requires
@@ -2149,15 +2149,15 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jfdctfst.c.o: dlib_build/CMakeFi
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jfdctfst.c.o: /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jfdctfst.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_92)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jfdctfst.c.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jfdctfst.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jfdctfst.c
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jfdctfst.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jfdctfst.c
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jfdctfst.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/dlib.dir/external/libjpeg/jfdctfst.c.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jfdctfst.c > CMakeFiles/dlib.dir/external/libjpeg/jfdctfst.c.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jfdctfst.c > CMakeFiles/dlib.dir/external/libjpeg/jfdctfst.c.i
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jfdctfst.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/dlib.dir/external/libjpeg/jfdctfst.c.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jfdctfst.c -o CMakeFiles/dlib.dir/external/libjpeg/jfdctfst.c.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jfdctfst.c -o CMakeFiles/dlib.dir/external/libjpeg/jfdctfst.c.s
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jfdctfst.c.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jfdctfst.c.o.requires
@@ -2172,15 +2172,15 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jfdctint.c.o: dlib_build/CMakeFi
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jfdctint.c.o: /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jfdctint.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_93)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jfdctint.c.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jfdctint.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jfdctint.c
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jfdctint.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jfdctint.c
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jfdctint.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/dlib.dir/external/libjpeg/jfdctint.c.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jfdctint.c > CMakeFiles/dlib.dir/external/libjpeg/jfdctint.c.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jfdctint.c > CMakeFiles/dlib.dir/external/libjpeg/jfdctint.c.i
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jfdctint.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/dlib.dir/external/libjpeg/jfdctint.c.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jfdctint.c -o CMakeFiles/dlib.dir/external/libjpeg/jfdctint.c.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jfdctint.c -o CMakeFiles/dlib.dir/external/libjpeg/jfdctint.c.s
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jfdctint.c.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jfdctint.c.o.requires
@@ -2195,15 +2195,15 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jidctflt.c.o: dlib_build/CMakeFi
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jidctflt.c.o: /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jidctflt.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_94)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jidctflt.c.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jidctflt.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jidctflt.c
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jidctflt.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jidctflt.c
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jidctflt.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/dlib.dir/external/libjpeg/jidctflt.c.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jidctflt.c > CMakeFiles/dlib.dir/external/libjpeg/jidctflt.c.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jidctflt.c > CMakeFiles/dlib.dir/external/libjpeg/jidctflt.c.i
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jidctflt.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/dlib.dir/external/libjpeg/jidctflt.c.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jidctflt.c -o CMakeFiles/dlib.dir/external/libjpeg/jidctflt.c.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jidctflt.c -o CMakeFiles/dlib.dir/external/libjpeg/jidctflt.c.s
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jidctflt.c.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jidctflt.c.o.requires
@@ -2218,15 +2218,15 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jidctfst.c.o: dlib_build/CMakeFi
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jidctfst.c.o: /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jidctfst.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_95)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jidctfst.c.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jidctfst.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jidctfst.c
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jidctfst.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jidctfst.c
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jidctfst.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/dlib.dir/external/libjpeg/jidctfst.c.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jidctfst.c > CMakeFiles/dlib.dir/external/libjpeg/jidctfst.c.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jidctfst.c > CMakeFiles/dlib.dir/external/libjpeg/jidctfst.c.i
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jidctfst.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/dlib.dir/external/libjpeg/jidctfst.c.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jidctfst.c -o CMakeFiles/dlib.dir/external/libjpeg/jidctfst.c.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jidctfst.c -o CMakeFiles/dlib.dir/external/libjpeg/jidctfst.c.s
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jidctfst.c.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jidctfst.c.o.requires
@@ -2241,15 +2241,15 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jidctint.c.o: dlib_build/CMakeFi
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jidctint.c.o: /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jidctint.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_96)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jidctint.c.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jidctint.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jidctint.c
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jidctint.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jidctint.c
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jidctint.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/dlib.dir/external/libjpeg/jidctint.c.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jidctint.c > CMakeFiles/dlib.dir/external/libjpeg/jidctint.c.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jidctint.c > CMakeFiles/dlib.dir/external/libjpeg/jidctint.c.i
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jidctint.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/dlib.dir/external/libjpeg/jidctint.c.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jidctint.c -o CMakeFiles/dlib.dir/external/libjpeg/jidctint.c.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jidctint.c -o CMakeFiles/dlib.dir/external/libjpeg/jidctint.c.s
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jidctint.c.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jidctint.c.o.requires
@@ -2264,15 +2264,15 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jmemmgr.c.o: dlib_build/CMakeFil
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jmemmgr.c.o: /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jmemmgr.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_97)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jmemmgr.c.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jmemmgr.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jmemmgr.c
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jmemmgr.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jmemmgr.c
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jmemmgr.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/dlib.dir/external/libjpeg/jmemmgr.c.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jmemmgr.c > CMakeFiles/dlib.dir/external/libjpeg/jmemmgr.c.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jmemmgr.c > CMakeFiles/dlib.dir/external/libjpeg/jmemmgr.c.i
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jmemmgr.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/dlib.dir/external/libjpeg/jmemmgr.c.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jmemmgr.c -o CMakeFiles/dlib.dir/external/libjpeg/jmemmgr.c.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jmemmgr.c -o CMakeFiles/dlib.dir/external/libjpeg/jmemmgr.c.s
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jmemmgr.c.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jmemmgr.c.o.requires
@@ -2287,15 +2287,15 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jmemnobs.c.o: dlib_build/CMakeFi
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jmemnobs.c.o: /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jmemnobs.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_98)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jmemnobs.c.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jmemnobs.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jmemnobs.c
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jmemnobs.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jmemnobs.c
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jmemnobs.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/dlib.dir/external/libjpeg/jmemnobs.c.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jmemnobs.c > CMakeFiles/dlib.dir/external/libjpeg/jmemnobs.c.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jmemnobs.c > CMakeFiles/dlib.dir/external/libjpeg/jmemnobs.c.i
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jmemnobs.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/dlib.dir/external/libjpeg/jmemnobs.c.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jmemnobs.c -o CMakeFiles/dlib.dir/external/libjpeg/jmemnobs.c.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jmemnobs.c -o CMakeFiles/dlib.dir/external/libjpeg/jmemnobs.c.s
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jmemnobs.c.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jmemnobs.c.o.requires
@@ -2310,15 +2310,15 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jquant1.c.o: dlib_build/CMakeFil
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jquant1.c.o: /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jquant1.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_99)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jquant1.c.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jquant1.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jquant1.c
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jquant1.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jquant1.c
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jquant1.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/dlib.dir/external/libjpeg/jquant1.c.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jquant1.c > CMakeFiles/dlib.dir/external/libjpeg/jquant1.c.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jquant1.c > CMakeFiles/dlib.dir/external/libjpeg/jquant1.c.i
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jquant1.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/dlib.dir/external/libjpeg/jquant1.c.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jquant1.c -o CMakeFiles/dlib.dir/external/libjpeg/jquant1.c.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jquant1.c -o CMakeFiles/dlib.dir/external/libjpeg/jquant1.c.s
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jquant1.c.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jquant1.c.o.requires
@@ -2333,15 +2333,15 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jquant2.c.o: dlib_build/CMakeFil
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jquant2.c.o: /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jquant2.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_100)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jquant2.c.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jquant2.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jquant2.c
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jquant2.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jquant2.c
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jquant2.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/dlib.dir/external/libjpeg/jquant2.c.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jquant2.c > CMakeFiles/dlib.dir/external/libjpeg/jquant2.c.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jquant2.c > CMakeFiles/dlib.dir/external/libjpeg/jquant2.c.i
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jquant2.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/dlib.dir/external/libjpeg/jquant2.c.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jquant2.c -o CMakeFiles/dlib.dir/external/libjpeg/jquant2.c.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jquant2.c -o CMakeFiles/dlib.dir/external/libjpeg/jquant2.c.s
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jquant2.c.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jquant2.c.o.requires
@@ -2356,15 +2356,15 @@ dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jutils.c.o: dlib_build/CMakeFile
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jutils.c.o: /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jutils.c
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_101)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jutils.c.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jutils.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jutils.c
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/dlib.dir/external/libjpeg/jutils.c.o   -c /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jutils.c
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jutils.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/dlib.dir/external/libjpeg/jutils.c.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jutils.c > CMakeFiles/dlib.dir/external/libjpeg/jutils.c.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jutils.c > CMakeFiles/dlib.dir/external/libjpeg/jutils.c.i
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jutils.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/dlib.dir/external/libjpeg/jutils.c.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/cc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jutils.c -o CMakeFiles/dlib.dir/external/libjpeg/jutils.c.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/gcc  $(C_DEFINES) $(C_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/external/libjpeg/jutils.c -o CMakeFiles/dlib.dir/external/libjpeg/jutils.c.s
 
 dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jutils.c.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jutils.c.o.requires
@@ -2379,15 +2379,15 @@ dlib_build/CMakeFiles/dlib.dir/image_loader/jpeg_loader.cpp.o: dlib_build/CMakeF
 dlib_build/CMakeFiles/dlib.dir/image_loader/jpeg_loader.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/image_loader/jpeg_loader.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_102)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/image_loader/jpeg_loader.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/image_loader/jpeg_loader.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/image_loader/jpeg_loader.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/image_loader/jpeg_loader.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/image_loader/jpeg_loader.cpp
 
 dlib_build/CMakeFiles/dlib.dir/image_loader/jpeg_loader.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/image_loader/jpeg_loader.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/image_loader/jpeg_loader.cpp > CMakeFiles/dlib.dir/image_loader/jpeg_loader.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/image_loader/jpeg_loader.cpp > CMakeFiles/dlib.dir/image_loader/jpeg_loader.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/image_loader/jpeg_loader.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/image_loader/jpeg_loader.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/image_loader/jpeg_loader.cpp -o CMakeFiles/dlib.dir/image_loader/jpeg_loader.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/image_loader/jpeg_loader.cpp -o CMakeFiles/dlib.dir/image_loader/jpeg_loader.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/image_loader/jpeg_loader.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/image_loader/jpeg_loader.cpp.o.requires
@@ -2402,15 +2402,15 @@ dlib_build/CMakeFiles/dlib.dir/image_saver/save_jpeg.cpp.o: dlib_build/CMakeFile
 dlib_build/CMakeFiles/dlib.dir/image_saver/save_jpeg.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/image_saver/save_jpeg.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_103)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object dlib_build/CMakeFiles/dlib.dir/image_saver/save_jpeg.cpp.o"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/image_saver/save_jpeg.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/image_saver/save_jpeg.cpp
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dlib.dir/image_saver/save_jpeg.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/image_saver/save_jpeg.cpp
 
 dlib_build/CMakeFiles/dlib.dir/image_saver/save_jpeg.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlib.dir/image_saver/save_jpeg.cpp.i"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/image_saver/save_jpeg.cpp > CMakeFiles/dlib.dir/image_saver/save_jpeg.cpp.i
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/image_saver/save_jpeg.cpp > CMakeFiles/dlib.dir/image_saver/save_jpeg.cpp.i
 
 dlib_build/CMakeFiles/dlib.dir/image_saver/save_jpeg.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlib.dir/image_saver/save_jpeg.cpp.s"
-	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/image_saver/save_jpeg.cpp -o CMakeFiles/dlib.dir/image_saver/save_jpeg.cpp.s
+	cd /data/hieu_workspace/SealNet2/build/dlib_build && /usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/image_saver/save_jpeg.cpp -o CMakeFiles/dlib.dir/image_saver/save_jpeg.cpp.s
 
 dlib_build/CMakeFiles/dlib.dir/image_saver/save_jpeg.cpp.o.requires:
 .PHONY : dlib_build/CMakeFiles/dlib.dir/image_saver/save_jpeg.cpp.o.requires

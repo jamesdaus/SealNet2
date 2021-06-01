@@ -82,7 +82,10 @@ CMAKE_BUILD_TYPE:STRING=Release
 CMAKE_COLOR_MAKEFILE:BOOL=ON
 
 //CXX compiler.
-CMAKE_CXX_COMPILER:FILEPATH=/usr/bin/c++
+CMAKE_CXX_COMPILER:FILEPATH=/usr/bin/g++
+
+//Path to a program.
+CMAKE_CXX_COMPILER_WITH_PATH:FILEPATH=/usr/bin/g++
 
 //Flags used by the compiler during all build types.
 CMAKE_CXX_FLAGS:STRING=
@@ -102,7 +105,10 @@ CMAKE_CXX_FLAGS_RELEASE:STRING=-O3 -DNDEBUG
 CMAKE_CXX_FLAGS_RELWITHDEBINFO:STRING=-O2 -g -DNDEBUG
 
 //C compiler.
-CMAKE_C_COMPILER:FILEPATH=/usr/bin/cc
+CMAKE_C_COMPILER:FILEPATH=/usr/bin/gcc
+
+//Path to a program.
+CMAKE_C_COMPILER_WITH_PATH:FILEPATH=/usr/bin/gcc
 
 //Flags used by the compiler during all build types.
 CMAKE_C_FLAGS:STRING=
@@ -299,7 +305,7 @@ CUDA_GENERATED_OUTPUT_DIR:PATH=
 CUDA_HOST_COMPILATION_CPP:BOOL=ON
 
 //Host side compiler used by NVCC
-CUDA_HOST_COMPILER:FILEPATH=/usr/bin/cc
+CUDA_HOST_COMPILER:FILEPATH=/usr/bin/gcc
 
 //Path to a program.
 CUDA_NVCC_EXECUTABLE:FILEPATH=/usr/local/cuda/bin/nvcc
@@ -400,7 +406,7 @@ DLIB_PNG_SUPPORT:BOOL=ON
 //Disable this if you don't want to use a BLAS library
 DLIB_USE_BLAS:STRING=OFF
 
-//Disable this if you don't want to use NVIDIA CUDA
+//Disable this if you don't want to use a BLAS library
 DLIB_USE_CUDA:STRING=OFF
 
 //Disable this if you don't want to use a LAPACK library
@@ -448,7 +454,7 @@ SealNet_BINARY_DIR:STATIC=/data/hieu_workspace/SealNet2/build
 SealNet_SOURCE_DIR:STATIC=/data/hieu_workspace/SealNet2
 
 //Compile your program with AVX instructions
-USE_AVX_INSTRUCTIONS:BOOL=OFF
+USE_AVX_INSTRUCTIONS:BOOL=1
 
 //Compile your program with SSE2 instructions
 USE_SSE2_INSTRUCTIONS:BOOL=OFF
@@ -661,10 +667,10 @@ cudnn_include:PATH=cudnn_include-NOTFOUND
 dlib_BINARY_DIR:STATIC=/data/hieu_workspace/SealNet2/build/dlib_build
 
 //Dependencies for the target
-dlib_LIB_DEPENDS:STATIC=general;-lpthread;general;/usr/lib64/libSM.so;general;/usr/lib64/libICE.so;general;/usr/lib64/libX11.so;general;/usr/lib64/libXext.so;general;/usr/local/lib/libpng.so;general;/usr/lib64/libz.so;
+dlib_LIB_DEPENDS:STATIC=general;-lpthread;general;/usr/lib64/libSM.so;general;/usr/lib64/libICE.so;general;/usr/lib64/libX11.so;general;/usr/lib64/libXext.so;
 
 //Value Computed by CMake
-dlib_SOURCE_DIR:STATIC=/data/hieu_workspace/dlib-19.22/dlib
+dlib_SOURCE_DIR:STATIC=/data/hieu_workspace/dlib/dlib
 
 //Path to a library.
 generic_blas:FILEPATH=generic_blas-NOTFOUND
@@ -802,6 +808,8 @@ CMAKE_CPACK_COMMAND:INTERNAL=/usr/bin/cpack
 CMAKE_CTEST_COMMAND:INTERNAL=/usr/bin/ctest
 //ADVANCED property for variable: CMAKE_CXX_COMPILER
 CMAKE_CXX_COMPILER-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: CMAKE_CXX_COMPILER_WITH_PATH
+CMAKE_CXX_COMPILER_WITH_PATH-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_CXX_FLAGS
 CMAKE_CXX_FLAGS-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_CXX_FLAGS_DEBUG
@@ -814,6 +822,8 @@ CMAKE_CXX_FLAGS_RELEASE-ADVANCED:INTERNAL=1
 CMAKE_CXX_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_C_COMPILER
 CMAKE_C_COMPILER-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: CMAKE_C_COMPILER_WITH_PATH
+CMAKE_C_COMPILER_WITH_PATH-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_C_FLAGS
 CMAKE_C_FLAGS-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_C_FLAGS_DEBUG
@@ -1244,5 +1254,7 @@ sqlite_path-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: tatlas_lib
 tatlas_lib-ADVANCED:INTERNAL=1
 //Result of TRY_COMPILE
-test_for_libpng_worked:INTERNAL=TRUE
+test_for_libpng_worked:INTERNAL=FALSE
+//Result of TRY_COMPILE
+test_for_neon_worked:INTERNAL=FALSE
 

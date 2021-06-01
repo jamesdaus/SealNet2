@@ -34,7 +34,7 @@
   -->
   <image file='1.JPG'>
     <box top='286' left='184' width='72' height='58'/>
-    <box top='336' left='182' width='154' height='160'/>
+    <box top='336' left='182' width='70' height='70'/>
     <box top='252' left='296' width='74' height='72'/>
     <box top='370' left='582' width='72' height='56'/>
     <box top='236' left='408' width='46' height='46'/>

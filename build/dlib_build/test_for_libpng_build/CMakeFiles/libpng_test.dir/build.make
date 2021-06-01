@@ -56,15 +56,15 @@ CMakeFiles/libpng_test.dir/libpng_test.cpp.o: CMakeFiles/libpng_test.dir/flags.m
 CMakeFiles/libpng_test.dir/libpng_test.cpp.o: /data/hieu_workspace/dlib-19.22/dlib/cmake_utils/test_for_libpng/libpng_test.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/dlib_build/test_for_libpng_build/CMakeFiles $(CMAKE_PROGRESS_1)
 	@echo "Building CXX object CMakeFiles/libpng_test.dir/libpng_test.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/libpng_test.dir/libpng_test.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/cmake_utils/test_for_libpng/libpng_test.cpp
+	/usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/libpng_test.dir/libpng_test.cpp.o -c /data/hieu_workspace/dlib-19.22/dlib/cmake_utils/test_for_libpng/libpng_test.cpp
 
 CMakeFiles/libpng_test.dir/libpng_test.cpp.i: cmake_force
 	@echo "Preprocessing CXX source to CMakeFiles/libpng_test.dir/libpng_test.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/cmake_utils/test_for_libpng/libpng_test.cpp > CMakeFiles/libpng_test.dir/libpng_test.cpp.i
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/dlib-19.22/dlib/cmake_utils/test_for_libpng/libpng_test.cpp > CMakeFiles/libpng_test.dir/libpng_test.cpp.i
 
 CMakeFiles/libpng_test.dir/libpng_test.cpp.s: cmake_force
 	@echo "Compiling CXX source to assembly CMakeFiles/libpng_test.dir/libpng_test.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/cmake_utils/test_for_libpng/libpng_test.cpp -o CMakeFiles/libpng_test.dir/libpng_test.cpp.s
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/dlib-19.22/dlib/cmake_utils/test_for_libpng/libpng_test.cpp -o CMakeFiles/libpng_test.dir/libpng_test.cpp.s
 
 CMakeFiles/libpng_test.dir/libpng_test.cpp.o.requires:
 .PHONY : CMakeFiles/libpng_test.dir/libpng_test.cpp.o.requires

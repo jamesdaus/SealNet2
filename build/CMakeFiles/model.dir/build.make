@@ -56,15 +56,15 @@ CMakeFiles/model.dir/dnn_mmod_seal.cpp.o: CMakeFiles/model.dir/flags.make
 CMakeFiles/model.dir/dnn_mmod_seal.cpp.o: ../dnn_mmod_seal.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /data/hieu_workspace/SealNet2/build/CMakeFiles $(CMAKE_PROGRESS_1)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/model.dir/dnn_mmod_seal.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/model.dir/dnn_mmod_seal.cpp.o -c /data/hieu_workspace/SealNet2/dnn_mmod_seal.cpp
+	/usr/bin/g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/model.dir/dnn_mmod_seal.cpp.o -c /data/hieu_workspace/SealNet2/dnn_mmod_seal.cpp
 
 CMakeFiles/model.dir/dnn_mmod_seal.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/model.dir/dnn_mmod_seal.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/SealNet2/dnn_mmod_seal.cpp > CMakeFiles/model.dir/dnn_mmod_seal.cpp.i
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /data/hieu_workspace/SealNet2/dnn_mmod_seal.cpp > CMakeFiles/model.dir/dnn_mmod_seal.cpp.i
 
 CMakeFiles/model.dir/dnn_mmod_seal.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/model.dir/dnn_mmod_seal.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/SealNet2/dnn_mmod_seal.cpp -o CMakeFiles/model.dir/dnn_mmod_seal.cpp.s
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /data/hieu_workspace/SealNet2/dnn_mmod_seal.cpp -o CMakeFiles/model.dir/dnn_mmod_seal.cpp.s
 
 CMakeFiles/model.dir/dnn_mmod_seal.cpp.o.requires:
 .PHONY : CMakeFiles/model.dir/dnn_mmod_seal.cpp.o.requires
