@@ -1,5 +1,5 @@
 # SealNet Seal Chipping
-
+[Click here to view the paper](https://docs.google.com/document/d/1fTkNYil2fgY3ad057BjPXSQtaSAYtI-956vt_fUJKEQ)
 
 ## Usage:
 
